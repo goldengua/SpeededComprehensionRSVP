@@ -1,0 +1,5 @@
+item,type,condition,sentence,question,answer,speed,key
+1,practice,ctrl,The hearty meal was devoured by a boy.,Was the hearty meal devoured?,Y,0,f
+2,practice,exp,The hearty meal was devouring by a boy.,Was the hearty meal devoured?,N,4,j
+3,practice,ctrl,Annie gave the apple to her mother.,Did Annie's mother receive an apple?,Y,1,f
+4,practice,exp,Annie gave the apple her mother.,Did Annie's mother receive an apple?,N,8,j

@@ -1,1 +1,769 @@
-
+,group,item,type,condition,sentence,question,answer,speed,file,duration
+0,A1,1,depth_charge,ctrl,"In Maria's class, no test is so difficult that she would fail it.",Are all tests easy in Maria's class?,Y,1,1_depth_charge_ctrl_1.gif,3470
+1,A1,2,depth_charge,exp,"In Laura's opinion, no relationship is too volatile to fail.",Are all relationships stable in Laura's opinion?,N,1,2_depth_charge_exp_1.gif,2910
+2,A1,3,depth_charge,ctrl,"According to Mark, no drug is so dangerous that he would ban it.",Are all drugs safe in Mark's opinion?,Y,1,3_depth_charge_ctrl_1.gif,3460
+3,A1,4,depth_charge,exp,"Considering John's finances, no offer is too low to reject.",Are all offers acceptable to John?,N,1,4_depth_charge_exp_1.gif,2900
+4,A1,5,depth_charge,ctrl,"In Gideon's opinion, no habit is so annoying that he would discourage it.",Are all habits good in Gideon's opinion?,Y,1,5_depth_charge_ctrl_1.gif,3550
+5,A1,6,depth_charge,exp,"According to the geologist, no data is too complicated to misinterpret.",Are data easy to interpret according to the geologist? ,N,1,6_depth_charge_exp_1.gif,3190
+6,A1,7,depth_charge,ctrl,"According to the politician, no social program is so wasteful that he would oppose it.",Are all social programs useful?,Y,1,7_depth_charge_ctrl_1.gif,4020
+7,A1,8,depth_charge,exp,"For someone like Alex, no memory is too distant to forget.",Are all memories close for Alex?,N,1,8_depth_charge_exp_1.gif,3060
+8,A1,9,depth_charge,ctrl,"When it comes to Sharon's friends, no event is so inconvenient that she would skip it.",Are all friends' events convenient for Sharon?,Y,1,9_depth_charge_ctrl_1.gif,4190
+9,A1,10,depth_charge,exp,"During Kipp's presidential campaign, no rumor was too outlandish to deny.",Are all rumors usual during Kipps' campaign?,N,1,10_depth_charge_exp_1.gif,3210
+10,A1,11,depth_charge,ctrl,"According to the movie producer, no criticism is so trivial that he would ignore it.",Are all criticisms important to the movie producer?,Y,1,11_depth_charge_ctrl_1.gif,4000
+11,A1,12,depth_charge,exp,"Judging by Tom's work, no error is too small to overlook.",Are all errors important to Tom?,N,1,12_depth_charge_exp_1.gif,3050
+12,A1,1,filler,filler,Someone who has fought in a war is a veteran.,Does the sentence mention a war? ,Y,1,1_filler_filler_1.gif,2760
+13,A1,2,filler,filler,The woman brought her sick pet dog to a veterinarian.,Was the animal a canine? ,Y,1,2_filler_filler_1.gif,2840
+14,A1,3,filler,filler,The vintage wedding dress was big and required an alteration.,Was the gown too small? ,N,1,3_filler_filler_1.gif,2920
+15,A1,4,filler,filler,Mediators prevented the dispute from escalating into a violent altercation.,Was there a disagreement? ,Y,1,4_filler_filler_1.gif,3060
+16,A1,5,filler,filler,The storyteller could turn any incident into an amusing anecdote.,Does the sentence mention a storyteller? ,Y,1,5_filler_filler_1.gif,2960
+17,A1,6,filler,filler,She saved him from the poison by administering an antidote.,Did she save him by amputating? ,N,1,6_filler_filler_1.gif,2900
+18,A1,7,filler,filler,Clownfish have evolved invulnerability to the poison tentacles of anemones.,Are the fish specially adapted? ,Y,1,7_filler_filler_1.gif,3060
+19,A1,8,filler,filler,The upscale apartment was complete with all these modern amenities.,Did the residence need an upgrade? ,N,1,8_filler_filler_1.gif,2980
+20,A1,9,filler,filler,The flooded river fertilized the fields with a rich sediment.,Did the river overflow its banks? ,Y,1,9_filler_filler_1.gif,2920
+21,A1,10,filler,filler,Political corruption and economic hardship fueled a growing anti-government sentiment.,Were people increasingly pro-government? ,N,1,10_filler_filler_1.gif,3170
+22,A1,11,filler,filler,Up on the tree branch perched a bright red cardinal.,Does the sentence mention a tree? ,Y,1,11_filler_filler_1.gif,2830
+23,A1,12,filler,filler,There is a beanbag toss game booth at this carnival.,Were the beanbags for a game? ,Y,1,12_filler_filler_1.gif,2830
+24,A1,1,Inversion,ctrl,The sister mailed the niece the letter.,Did the sister mailed her niece the letter?,Y,1,1_Inversion_ctrl_1.gif,2190
+25,A1,2,Inversion,exp,The mother gave the candle the daughter.,Did the mother give the candle to the daughter?,N,1,2_Inversion_exp_1.gif,2200
+26,A1,3,Inversion,ctrl,The uncle sold the father the truck.,Did the uncle sell the truck to the father?,Y,1,3_Inversion_ctrl_1.gif,2160
+27,A1,4,Inversion,exp,The contractor lent the saw the homeowner.,Did the homeowner receive the saw?,N,1,4_Inversion_exp_1.gif,2220
+28,A1,5,Inversion,ctrl,The sailing club leased the man the boat.,Did the club lease the boat to the man?,Y,1,5_Inversion_ctrl_1.gif,2380
+29,A1,6,Inversion,exp,The girl tossed the apple the boy.,Was the boy tossed by a fruit? ,N,1,6_Inversion_exp_1.gif,2140
+30,A1,7,Inversion,ctrl,The daughter passed the bowl to the mother.,Did the mother receive the bowl?,Y,1,7_Inversion_ctrl_1.gif,2400
+31,A1,8,Inversion,exp,The scuba instructor rented the tourist to the equipment.,Did the tourist get the equipment?,N,1,8_Inversion_exp_1.gif,2710
+32,A1,9,Inversion,ctrl,The boy handed the pencil to the girl.,Did the boy give the pencil to the girl?,Y,1,9_Inversion_ctrl_1.gif,2350
+33,A1,10,Inversion,exp,The nanny threw the child to the toy.,Did the nanny throw a toy?,N,1,10_Inversion_exp_1.gif,2340
+34,A1,11,Inversion,ctrl,The nephew mailed the postcard to the aunt.,Did the nephew mail the postcard?,Y,1,11_Inversion_ctrl_1.gif,2400
+35,A1,12,Inversion,exp,The father gave the son to the car.,Did the son get a car?,N,1,12_Inversion_exp_1.gif,2320
+36,A1,1,levy,ctrl,The coach smiled at the player thrown a frisbee by the opposing team.,Was the coach tossed a frisbee?,Y,1,1_levy_ctrl_1.gif,3510
+37,A1,2,levy,exp,The student sighed at the professor taught a dancing lesson by the exeprienced instructors.,Did the professor teach a dance lesson?,N,1,2_levy_exp_1.gif,3900
+38,A1,3,levy,ctrl,The kindergardener grinned at the little girl chosen a boy by her parents on the first day of Chanukah.,Was the kindergardener bought a boy?,N,1,3_levy_ctrl_1.gif,4870
+39,A1,4,levy,exp,The manager cursed at the waiter served pea soup by a trainee.,Was the waiter served pea soup?,Y,1,4_levy_exp_1.gif,3270
+40,A1,5,levy,ctrl,The priest frowned at the woman given a beer by the hostess.,Was the woman given a beer?,Y,1,5_levy_ctrl_1.gif,3250
+41,A1,6,levy,exp,The hotel owner scowled at the guest brought a drink by the bellboy.,Did the guest bring a drink?,N,1,6_levy_exp_1.gif,3500
+42,A1,7,levy,ctrl,James stared at the children hidden Easter eggs by their teachers?,Did the children hide Easter eggs?,N,1,7_levy_ctrl_1.gif,3140
+43,A1,8,levy,exp,The foreman cried out at a carpenter cut a board by his buddy.,Was the carpenter cut a board?,Y,1,8_levy_exp_1.gif,3440
+44,A1,9,levy,ctrl,The nurse grimaced at a student stolen a muffin by her friends from the dining hall.,Was the student stolen a muffin?,Y,1,9_levy_ctrl_1.gif,4170
+45,A1,10,levy,exp,The anthropologist looked on at the woman knitted a shawl by her mother.,Did the woman knit a shawl?,N,1,10_levy_exp_1.gif,3540
+46,A1,11,levy,ctrl,The town dunk snorted at the innkeeper sung a verse by a traveling monk.,Was the innkeeper sung a verse?,Y,1,11_levy_ctrl_1.gif,3710
+47,A1,12,levy,exp,The trader sneered at the banker clipped a coupon by her boss.,Did the trader clip a coupon?,N,1,12_levy_exp_1.gif,3270
+48,A1,1,mvrr,ctrl,A yellow frisbee that was dangled from the roof landed in the ditch.,Was the frisbee dangled from the roof?,Y,1,1_mvrr_ctrl_1.gif,3500
+49,A1,2,mvrr,exp,An impatient shopper shoved through the doors complained to the manager.,Was the shopper shoved?,Y,1,2_mvrr_exp_1.gif,3200
+50,A1,3,mvrr,ctrl,The drunk tourists who were heard on their balcony were asked to leave.,Did the drunk tourists hear something?,N,1,3_mvrr_ctrl_1.gif,3530
+51,A1,4,mvrr,exp,Several angry workers warned about low wages decided to file complaints.,Did the angry worked warn about the low wages?,N,1,4_mvrr_exp_1.gif,3200
+52,A1,5,mvrr,ctrl,Some rescue workers who were advised about the avalanche decided to stand by.,Did the rescue workers advise about the avalanche?,N,1,5_mvrr_ctrl_1.gif,3590
+53,A1,6,mvrr,exp,The aging professors phoned about the midterm were caught off guard.,Were the professors phoned about the midterm?,Y,1,6_mvrr_exp_1.gif,3160
+54,A1,7,mvrr,ctrl,The alert soldiers who were unloaded from the helicopter found their target quickly.,Were the soldiers unloaded?,Y,1,7_mvrr_ctrl_1.gif,3660
+55,A1,8,mvrr,exp,The brown sparrow signalled on a branch pecked at an insect.,Was the sparrow signalled?,Y,1,8_mvrr_exp_1.gif,3080
+56,A1,9,mvrr,ctrl,The calico cat who was licked in the alley ran into the street.,Was the calico cat licked?,Y,1,9_mvrr_ctrl_1.gif,3450
+57,A1,10,mvrr,exp,The computer programmers guaranteed the hard problem knew what to do.,Were the computer programmers guaranteed?,Y,1,10_mvrr_exp_1.gif,3170
+58,A1,11,mvrr,ctrl,The experienced chef who was assured about the stove burnt his hand anyway.,Was the chef assured about the stove?,Y,1,11_mvrr_ctrl_1.gif,3570
+59,A1,12,mvrr,exp,The cotton farmers told about bad floods had no other crops.,Were the cotton farmers told about bad floods?,Y,1,12_mvrr_exp_1.gif,3080
+60,A1,1,NPS,ctrl,The apprentice forgot that the bicycle was standing in the garage next to the car.,Did the apprentice forget the bicycle?,N,1,1_NPS_ctrl_1.gif,3980
+61,A1,2,NPS,exp,The army found the supplies saved many lives during the long conflict.,Did the army find some suppies?,N,1,2_NPS_exp_1.gif,3350
+62,A1,3,NPS,ctrl,The coach discovered that the player tried to show off all the time.,Did the coach discover a player?,N,1,3_NPS_ctrl_1.gif,3500
+63,A1,4,NPS,exp,The scientist proved the theory could help build cars with better mileage.,Did the scientist prove a theory?,N,1,4_NPS_exp_1.gif,3390
+64,A1,5,NPS,ctrl,The employees understood that the contract would be changed very soon to accommodate all parties.,Did the employee understand the change of the contract?,Y,1,5_NPS_ctrl_1.gif,4130
+65,A1,6,NPS,exp,The journalist confirmed the story would be published on the front page the next day.,Did the journalist confirm the publication date?,Y,1,6_NPS_exp_1.gif,4010
+66,A1,7,NPS,ctrl,The lawyer established that the alibi was not sufficient to free the defendant from blame.,Did the lawyer established the alibi?,N,1,7_NPS_ctrl_1.gif,4060
+67,A1,8,NPS,exp,The mechanic accepted the car looked in worse shape than before he worked on it.,Did the mechanic accept the car?,N,1,8_NPS_exp_1.gif,3960
+68,A1,9,NPS,ctrl,The traveler heard that the clock had woken everybody up in the youth hostel.,Did the traveler hear the clock?,N,1,9_NPS_ctrl_1.gif,3760
+69,A1,10,NPS,exp,The owners insured the house would never get flooded again when it rained.,Did the owner insure the house?,N,1,10_NPS_exp_1.gif,3560
+70,A1,11,NPS,ctrl,The priest recognized that two guests were necessary for the marriage to be legal.,Did the priest recognize the condition for legal marriage?,Y,1,11_NPS_ctrl_1.gif,3810
+71,A1,12,NPS,exp,The reporter revealed the politician received some payments from the unscrupulous millionaire.,Did the reporter reveal the bribery? ,Y,1,12_NPS_exp_1.gif,3590
+72,A1,1,NPZ,ctrl,"After the librarian called, the intern began returning books to the shelves.",Did the librarian call the intern?,Y,1,1_NPZ_ctrl_1.gif,3410
+73,A1,2,NPZ,exp,"After the mugger attacked the jogger was rubbing his sore leg, but it didn't help.",Did the mugger attach the jogger?,N,1,2_NPZ_exp_1.gif,3980
+74,A1,3,NPZ,ctrl,"Although the candidates debated, the issues were overlooked by most of the media who covered the campaign.",Did the candidates debate the issues?,Y,1,3_NPZ_ctrl_1.gif,4560
+75,A1,4,NPZ,exp,Although the maid cleaned the house was still in a state of total chaos.,Did the maid clean the house?,N,1,4_NPZ_exp_1.gif,3710
+76,A1,5,NPZ,ctrl,"As the couple danced, the tango began to be played by a live orchestra.",Did the couple dance the tango?,Y,1,5_NPZ_ctrl_1.gif,3700
+77,A1,6,NPZ,exp,As the customer paid the waitress could see how large the tip was.,Did the customer pay the waitress?,N,1,6_NPZ_exp_1.gif,3480
+78,A1,7,NPZ,ctrl,"Because the class failed, the exam was rewritten by the teacher so it was much easier.",Did the class fail the exam rewriteen by the teacher?,Y,1,7_NPZ_ctrl_1.gif,4190
+79,A1,8,NPZ,exp,Because the train stopped the traffic was rerouted through side streets for several hours.,Did the train stop the traffic?,N,1,8_NPZ_exp_1.gif,3890
+80,A1,9,NPZ,ctrl,"Before the tribe worshipped, the idol was placed on a large platform.",Did the tribe worship the idol?,Y,1,9_NPZ_ctrl_1.gif,3340
+81,A1,10,NPZ,exp,Even though the army surrendered the territory was filled with land mines that still had to be cleared.,Did the army surrender the territory?,N,1,10_NPZ_exp_1.gif,4700
+82,A1,11,NPZ,ctrl,"Even though the band left, the party went on for at least another two hours.",Did the band leave the party?,Y,1,11_NPZ_ctrl_1.gif,3920
+83,A1,12,NPZ,exp,Even though the girl phoned the instructor was very upset with her for missing a lesson.,Did the girl phone the instructor?,N,1,12_NPZ_exp_1.gif,4210
+84,A1,1,reversal,ctrl,The librarian documented which celebrities the journalist had interviewed for the magazine.,Was the journalist interviewed?,N,1,1_reversal_ctrl_1.gif,3560
+85,A1,2,reversal,exp,The old widower remembered which ghost the villager had haunted for many years.,Did the ghost hunt the villager?,N,1,2_reversal_exp_1.gif,3610
+86,A1,3,reversal,ctrl,The firefighter reported which victim the paramedic had saved after the fire.,Was the paramedic saved?,N,1,3_reversal_ctrl_1.gif,3420
+87,A1,4,reversal,exp,The historian documented which assassin the prince had killed in the 10th century.,Did the assassin kill the prince?,N,1,4_reversal_exp_1.gif,3640
+88,A1,5,reversal,ctrl,The park ranger documented which eagle the hunter had shot with a rifle.,Was the hunter shot?,N,1,5_reversal_ctrl_1.gif,3540
+89,A1,6,reversal,exp,The judo master recognized which assailant the defender had attacked late last night.,Was the defender attacked?,N,1,6_reversal_exp_1.gif,3670
+90,A1,7,reversal,ctrl,The naturalist observed which predators the deer had avoided by sleeping in the daytime.,Did the predator avoid the deer?,N,1,7_reversal_ctrl_1.gif,3870
+91,A1,8,reversal,exp,The restaurant owner forgot which waitress the customer had served during dinner yesterday.,Did the waitress serve the customer?,N,1,8_reversal_exp_1.gif,3730
+92,A1,9,reversal,ctrl,The head nun explained which friar the temptress had seduced after Sunday mass.,Was the temptress seduced?,N,1,9_reversal_ctrl_1.gif,3610
+93,A1,10,reversal,exp,The housekeeper showed which cat the mouse had killed under the table.,Was the mouse killed?,N,1,10_reversal_exp_1.gif,3350
+94,A1,11,reversal,ctrl,The nanny knew which housekeeper the billionaire had hired from their conversation.,Did the housekeeper hire the billionaire?,N,1,11_reversal_ctrl_1.gif,3480
+95,A1,12,reversal,exp,The researcher learned which biologist the whale had studied in the lab.,Did the biologist study the whale?,N,1,12_reversal_exp_1.gif,3370
+96,A2,1,depth_charge,ctrl,"In Maria's class, no test is so difficult that she would fail it.",Are all tests easy in Maria's class?,Y,4,1_depth_charge_ctrl_4.gif,6590
+97,A2,2,depth_charge,exp,"In Laura's opinion, no relationship is too volatile to fail.",Are all relationships stable in Laura's opinion?,N,4,2_depth_charge_exp_4.gif,5310
+98,A2,3,depth_charge,ctrl,"According to Mark, no drug is so dangerous that he would ban it.",Are all drugs safe in Mark's opinion?,Y,4,3_depth_charge_ctrl_4.gif,6580
+99,A2,4,depth_charge,exp,"Considering John's finances, no offer is too low to reject.",Are all offers acceptable to John?,N,4,4_depth_charge_exp_4.gif,5300
+100,A2,5,depth_charge,ctrl,"In Gideon's opinion, no habit is so annoying that he would discourage it.",Are all habits good in Gideon's opinion?,Y,4,5_depth_charge_ctrl_4.gif,6670
+101,A2,6,depth_charge,exp,"According to the geologist, no data is too complicated to misinterpret.",Are data easy to interpret according to the geologist? ,N,4,6_depth_charge_exp_4.gif,5830
+102,A2,7,depth_charge,ctrl,"According to the politician, no social program is so wasteful that he would oppose it.",Are all social programs useful?,Y,4,7_depth_charge_ctrl_4.gif,7620
+103,A2,8,depth_charge,exp,"For someone like Alex, no memory is too distant to forget.",Are all memories close for Alex?,N,4,8_depth_charge_exp_4.gif,5700
+104,A2,9,depth_charge,ctrl,"When it comes to Sharon's friends, no event is so inconvenient that she would skip it.",Are all friends' events convenient for Sharon?,Y,4,9_depth_charge_ctrl_4.gif,8030
+105,A2,10,depth_charge,exp,"During Kipp's presidential campaign, no rumor was too outlandish to deny.",Are all rumors usual during Kipps' campaign?,N,4,10_depth_charge_exp_4.gif,5850
+106,A2,11,depth_charge,ctrl,"According to the movie producer, no criticism is so trivial that he would ignore it.",Are all criticisms important to the movie producer?,Y,4,11_depth_charge_ctrl_4.gif,7600
+107,A2,12,depth_charge,exp,"Judging by Tom's work, no error is too small to overlook.",Are all errors important to Tom?,N,4,12_depth_charge_exp_4.gif,5690
+108,A2,1,filler,filler,Someone who has fought in a war is a veteran.,Does the sentence mention a war? ,Y,4,1_filler_filler_4.gif,5160
+109,A2,2,filler,filler,The woman brought her sick pet dog to a veterinarian.,Was the animal a canine? ,Y,4,2_filler_filler_4.gif,5240
+110,A2,3,filler,filler,The vintage wedding dress was big and required an alteration.,Was the gown too small? ,N,4,3_filler_filler_4.gif,5320
+111,A2,4,filler,filler,Mediators prevented the dispute from escalating into a violent altercation.,Was there a disagreement? ,Y,4,4_filler_filler_4.gif,5460
+112,A2,5,filler,filler,The storyteller could turn any incident into an amusing anecdote.,Does the sentence mention a storyteller? ,Y,4,5_filler_filler_4.gif,5360
+113,A2,6,filler,filler,She saved him from the poison by administering an antidote.,Did she save him by amputating? ,N,4,6_filler_filler_4.gif,5300
+114,A2,7,filler,filler,Clownfish have evolved invulnerability to the poison tentacles of anemones.,Are the fish specially adapted? ,Y,4,7_filler_filler_4.gif,5460
+115,A2,8,filler,filler,The upscale apartment was complete with all these modern amenities.,Did the residence need an upgrade? ,N,4,8_filler_filler_4.gif,5380
+116,A2,9,filler,filler,The flooded river fertilized the fields with a rich sediment.,Did the river overflow its banks? ,Y,4,9_filler_filler_4.gif,5320
+117,A2,10,filler,filler,Political corruption and economic hardship fueled a growing anti-government sentiment.,Were people increasingly pro-government? ,N,4,10_filler_filler_4.gif,5570
+118,A2,11,filler,filler,Up on the tree branch perched a bright red cardinal.,Does the sentence mention a tree? ,Y,4,11_filler_filler_4.gif,5230
+119,A2,12,filler,filler,There is a beanbag toss game booth at this carnival.,Were the beanbags for a game? ,Y,4,12_filler_filler_4.gif,5230
+120,A2,1,Inversion,ctrl,The sister mailed the niece the letter.,Did the sister mailed her niece the letter?,Y,4,1_Inversion_ctrl_4.gif,3870
+121,A2,2,Inversion,exp,The mother gave the candle the daughter.,Did the mother give the candle to the daughter?,N,4,2_Inversion_exp_4.gif,3880
+122,A2,3,Inversion,ctrl,The uncle sold the father the truck.,Did the uncle sell the truck to the father?,Y,4,3_Inversion_ctrl_4.gif,3840
+123,A2,4,Inversion,exp,The contractor lent the saw the homeowner.,Did the homeowner receive the saw?,N,4,4_Inversion_exp_4.gif,3900
+124,A2,5,Inversion,ctrl,The sailing club leased the man the boat.,Did the club lease the boat to the man?,Y,4,5_Inversion_ctrl_4.gif,4300
+125,A2,6,Inversion,exp,The girl tossed the apple the boy.,Was the boy tossed by a fruit? ,N,4,6_Inversion_exp_4.gif,3820
+126,A2,7,Inversion,ctrl,The daughter passed the bowl to the mother.,Did the mother receive the bowl?,Y,4,7_Inversion_ctrl_4.gif,4320
+127,A2,8,Inversion,exp,The scuba instructor rented the tourist to the equipment.,Did the tourist get the equipment?,N,4,8_Inversion_exp_4.gif,4870
+128,A2,9,Inversion,ctrl,The boy handed the pencil to the girl.,Did the boy give the pencil to the girl?,Y,4,9_Inversion_ctrl_4.gif,4270
+129,A2,10,Inversion,exp,The nanny threw the child to the toy.,Did the nanny throw a toy?,N,4,10_Inversion_exp_4.gif,4260
+130,A2,11,Inversion,ctrl,The nephew mailed the postcard to the aunt.,Did the nephew mail the postcard?,Y,4,11_Inversion_ctrl_4.gif,4320
+131,A2,12,Inversion,exp,The father gave the son to the car.,Did the son get a car?,N,4,12_Inversion_exp_4.gif,4240
+132,A2,1,levy,ctrl,The coach smiled at the player thrown a frisbee by the opposing team.,Was the coach tossed a frisbee?,Y,4,1_levy_ctrl_4.gif,6630
+133,A2,2,levy,exp,The student sighed at the professor taught a dancing lesson by the exeprienced instructors.,Did the professor teach a dance lesson?,N,4,2_levy_exp_4.gif,7260
+134,A2,3,levy,ctrl,The kindergardener grinned at the little girl chosen a boy by her parents on the first day of Chanukah.,Was the kindergardener bought a boy?,N,4,3_levy_ctrl_4.gif,9430
+135,A2,4,levy,exp,The manager cursed at the waiter served pea soup by a trainee.,Was the waiter served pea soup?,Y,4,4_levy_exp_4.gif,6150
+136,A2,5,levy,ctrl,The priest frowned at the woman given a beer by the hostess.,Was the woman given a beer?,Y,4,5_levy_ctrl_4.gif,6130
+137,A2,6,levy,exp,The hotel owner scowled at the guest brought a drink by the bellboy.,Did the guest bring a drink?,N,4,6_levy_exp_4.gif,6620
+138,A2,7,levy,ctrl,James stared at the children hidden Easter eggs by their teachers?,Did the children hide Easter eggs?,N,4,7_levy_ctrl_4.gif,5780
+139,A2,8,levy,exp,The foreman cried out at a carpenter cut a board by his buddy.,Was the carpenter cut a board?,Y,4,8_levy_exp_4.gif,6560
+140,A2,9,levy,ctrl,The nurse grimaced at a student stolen a muffin by her friends from the dining hall.,Was the student stolen a muffin?,Y,4,9_levy_ctrl_4.gif,8010
+141,A2,10,levy,exp,The anthropologist looked on at the woman knitted a shawl by her mother.,Did the woman knit a shawl?,N,4,10_levy_exp_4.gif,6660
+142,A2,11,levy,ctrl,The town dunk snorted at the innkeeper sung a verse by a traveling monk.,Was the innkeeper sung a verse?,Y,4,11_levy_ctrl_4.gif,7070
+143,A2,12,levy,exp,The trader sneered at the banker clipped a coupon by her boss.,Did the trader clip a coupon?,N,4,12_levy_exp_4.gif,6150
+144,A2,1,mvrr,ctrl,A yellow frisbee that was dangled from the roof landed in the ditch.,Was the frisbee dangled from the roof?,Y,4,1_mvrr_ctrl_4.gif,6620
+145,A2,2,mvrr,exp,An impatient shopper shoved through the doors complained to the manager.,Was the shopper shoved?,Y,4,2_mvrr_exp_4.gif,5840
+146,A2,3,mvrr,ctrl,The drunk tourists who were heard on their balcony were asked to leave.,Did the drunk tourists hear something?,N,4,3_mvrr_ctrl_4.gif,6650
+147,A2,4,mvrr,exp,Several angry workers warned about low wages decided to file complaints.,Did the angry worked warn about the low wages?,N,4,4_mvrr_exp_4.gif,5840
+148,A2,5,mvrr,ctrl,Some rescue workers who were advised about the avalanche decided to stand by.,Did the rescue workers advise about the avalanche?,N,4,5_mvrr_ctrl_4.gif,6710
+149,A2,6,mvrr,exp,The aging professors phoned about the midterm were caught off guard.,Were the professors phoned about the midterm?,Y,4,6_mvrr_exp_4.gif,5800
+150,A2,7,mvrr,ctrl,The alert soldiers who were unloaded from the helicopter found their target quickly.,Were the soldiers unloaded?,Y,4,7_mvrr_ctrl_4.gif,6780
+151,A2,8,mvrr,exp,The brown sparrow signalled on a branch pecked at an insect.,Was the sparrow signalled?,Y,4,8_mvrr_exp_4.gif,5720
+152,A2,9,mvrr,ctrl,The calico cat who was licked in the alley ran into the street.,Was the calico cat licked?,Y,4,9_mvrr_ctrl_4.gif,6570
+153,A2,10,mvrr,exp,The computer programmers guaranteed the hard problem knew what to do.,Were the computer programmers guaranteed?,Y,4,10_mvrr_exp_4.gif,5810
+154,A2,11,mvrr,ctrl,The experienced chef who was assured about the stove burnt his hand anyway.,Was the chef assured about the stove?,Y,4,11_mvrr_ctrl_4.gif,6690
+155,A2,12,mvrr,exp,The cotton farmers told about bad floods had no other crops.,Were the cotton farmers told about bad floods?,Y,4,12_mvrr_exp_4.gif,5720
+156,A2,1,NPS,ctrl,The apprentice forgot that the bicycle was standing in the garage next to the car.,Did the apprentice forget the bicycle?,N,4,1_NPS_ctrl_4.gif,7580
+157,A2,2,NPS,exp,The army found the supplies saved many lives during the long conflict.,Did the army find some suppies?,N,4,2_NPS_exp_4.gif,6230
+158,A2,3,NPS,ctrl,The coach discovered that the player tried to show off all the time.,Did the coach discover a player?,N,4,3_NPS_ctrl_4.gif,6620
+159,A2,4,NPS,exp,The scientist proved the theory could help build cars with better mileage.,Did the scientist prove a theory?,N,4,4_NPS_exp_4.gif,6270
+160,A2,5,NPS,ctrl,The employees understood that the contract would be changed very soon to accommodate all parties.,Did the employee understand the change of the contract?,Y,4,5_NPS_ctrl_4.gif,7730
+161,A2,6,NPS,exp,The journalist confirmed the story would be published on the front page the next day.,Did the journalist confirm the publication date?,Y,4,6_NPS_exp_4.gif,7610
+162,A2,7,NPS,ctrl,The lawyer established that the alibi was not sufficient to free the defendant from blame.,Did the lawyer established the alibi?,N,4,7_NPS_ctrl_4.gif,7660
+163,A2,8,NPS,exp,The mechanic accepted the car looked in worse shape than before he worked on it.,Did the mechanic accept the car?,N,4,8_NPS_exp_4.gif,7560
+164,A2,9,NPS,ctrl,The traveler heard that the clock had woken everybody up in the youth hostel.,Did the traveler hear the clock?,N,4,9_NPS_ctrl_4.gif,7120
+165,A2,10,NPS,exp,The owners insured the house would never get flooded again when it rained.,Did the owner insure the house?,N,4,10_NPS_exp_4.gif,6680
+166,A2,11,NPS,ctrl,The priest recognized that two guests were necessary for the marriage to be legal.,Did the priest recognize the condition for legal marriage?,Y,4,11_NPS_ctrl_4.gif,7170
+167,A2,12,NPS,exp,The reporter revealed the politician received some payments from the unscrupulous millionaire.,Did the reporter reveal the bribery? ,Y,4,12_NPS_exp_4.gif,6470
+168,A2,1,NPZ,ctrl,"After the librarian called, the intern began returning books to the shelves.",Did the librarian call the intern?,Y,4,1_NPZ_ctrl_4.gif,6290
+169,A2,2,NPZ,exp,"After the mugger attacked the jogger was rubbing his sore leg, but it didn't help.",Did the mugger attach the jogger?,N,4,2_NPZ_exp_4.gif,7580
+170,A2,3,NPZ,ctrl,"Although the candidates debated, the issues were overlooked by most of the media who covered the campaign.",Did the candidates debate the issues?,Y,4,3_NPZ_ctrl_4.gif,8640
+171,A2,4,NPZ,exp,Although the maid cleaned the house was still in a state of total chaos.,Did the maid clean the house?,N,4,4_NPZ_exp_4.gif,7070
+172,A2,5,NPZ,ctrl,"As the couple danced, the tango began to be played by a live orchestra.",Did the couple dance the tango?,Y,4,5_NPZ_ctrl_4.gif,7060
+173,A2,6,NPZ,exp,As the customer paid the waitress could see how large the tip was.,Did the customer pay the waitress?,N,4,6_NPZ_exp_4.gif,6600
+174,A2,7,NPZ,ctrl,"Because the class failed, the exam was rewritten by the teacher so it was much easier.",Did the class fail the exam rewriteen by the teacher?,Y,4,7_NPZ_ctrl_4.gif,8030
+175,A2,8,NPZ,exp,Because the train stopped the traffic was rerouted through side streets for several hours.,Did the train stop the traffic?,N,4,8_NPZ_exp_4.gif,7250
+176,A2,9,NPZ,ctrl,"Before the tribe worshipped, the idol was placed on a large platform.",Did the tribe worship the idol?,Y,4,9_NPZ_ctrl_4.gif,6220
+177,A2,10,NPZ,exp,Even though the army surrendered the territory was filled with land mines that still had to be cleared.,Did the army surrender the territory?,N,4,10_NPZ_exp_4.gif,9020
+178,A2,11,NPZ,ctrl,"Even though the band left, the party went on for at least another two hours.",Did the band leave the party?,Y,4,11_NPZ_ctrl_4.gif,7520
+179,A2,12,NPZ,exp,Even though the girl phoned the instructor was very upset with her for missing a lesson.,Did the girl phone the instructor?,N,4,12_NPZ_exp_4.gif,8050
+180,A2,1,reversal,ctrl,The librarian documented which celebrities the journalist had interviewed for the magazine.,Was the journalist interviewed?,N,4,1_reversal_ctrl_4.gif,6440
+181,A2,2,reversal,exp,The old widower remembered which ghost the villager had haunted for many years.,Did the ghost hunt the villager?,N,4,2_reversal_exp_4.gif,6730
+182,A2,3,reversal,ctrl,The firefighter reported which victim the paramedic had saved after the fire.,Was the paramedic saved?,N,4,3_reversal_ctrl_4.gif,6300
+183,A2,4,reversal,exp,The historian documented which assassin the prince had killed in the 10th century.,Did the assassin kill the prince?,N,4,4_reversal_exp_4.gif,6760
+184,A2,5,reversal,ctrl,The park ranger documented which eagle the hunter had shot with a rifle.,Was the hunter shot?,N,4,5_reversal_ctrl_4.gif,6660
+185,A2,6,reversal,exp,The judo master recognized which assailant the defender had attacked late last night.,Was the defender attacked?,N,4,6_reversal_exp_4.gif,6790
+186,A2,7,reversal,ctrl,The naturalist observed which predators the deer had avoided by sleeping in the daytime.,Did the predator avoid the deer?,N,4,7_reversal_ctrl_4.gif,7230
+187,A2,8,reversal,exp,The restaurant owner forgot which waitress the customer had served during dinner yesterday.,Did the waitress serve the customer?,N,4,8_reversal_exp_4.gif,6850
+188,A2,9,reversal,ctrl,The head nun explained which friar the temptress had seduced after Sunday mass.,Was the temptress seduced?,N,4,9_reversal_ctrl_4.gif,6730
+189,A2,10,reversal,exp,The housekeeper showed which cat the mouse had killed under the table.,Was the mouse killed?,N,4,10_reversal_exp_4.gif,6230
+190,A2,11,reversal,ctrl,The nanny knew which housekeeper the billionaire had hired from their conversation.,Did the housekeeper hire the billionaire?,N,4,11_reversal_ctrl_4.gif,6360
+191,A2,12,reversal,exp,The researcher learned which biologist the whale had studied in the lab.,Did the biologist study the whale?,N,4,12_reversal_exp_4.gif,6250
+192,A3,1,depth_charge,ctrl,"In Maria's class, no test is so difficult that she would fail it.",Are all tests easy in Maria's class?,Y,8,1_depth_charge_ctrl_8.gif,10750
+193,A3,2,depth_charge,exp,"In Laura's opinion, no relationship is too volatile to fail.",Are all relationships stable in Laura's opinion?,N,8,2_depth_charge_exp_8.gif,8510
+194,A3,3,depth_charge,ctrl,"According to Mark, no drug is so dangerous that he would ban it.",Are all drugs safe in Mark's opinion?,Y,8,3_depth_charge_ctrl_8.gif,10740
+195,A3,4,depth_charge,exp,"Considering John's finances, no offer is too low to reject.",Are all offers acceptable to John?,N,8,4_depth_charge_exp_8.gif,8500
+196,A3,5,depth_charge,ctrl,"In Gideon's opinion, no habit is so annoying that he would discourage it.",Are all habits good in Gideon's opinion?,Y,8,5_depth_charge_ctrl_8.gif,10830
+197,A3,6,depth_charge,exp,"According to the geologist, no data is too complicated to misinterpret.",Are data easy to interpret according to the geologist? ,N,8,6_depth_charge_exp_8.gif,9350
+198,A3,7,depth_charge,ctrl,"According to the politician, no social program is so wasteful that he would oppose it.",Are all social programs useful?,Y,8,7_depth_charge_ctrl_8.gif,12420
+199,A3,8,depth_charge,exp,"For someone like Alex, no memory is too distant to forget.",Are all memories close for Alex?,N,8,8_depth_charge_exp_8.gif,9220
+200,A3,9,depth_charge,ctrl,"When it comes to Sharon's friends, no event is so inconvenient that she would skip it.",Are all friends' events convenient for Sharon?,Y,8,9_depth_charge_ctrl_8.gif,13150
+201,A3,10,depth_charge,exp,"During Kipp's presidential campaign, no rumor was too outlandish to deny.",Are all rumors usual during Kipps' campaign?,N,8,10_depth_charge_exp_8.gif,9370
+202,A3,11,depth_charge,ctrl,"According to the movie producer, no criticism is so trivial that he would ignore it.",Are all criticisms important to the movie producer?,Y,8,11_depth_charge_ctrl_8.gif,12400
+203,A3,12,depth_charge,exp,"Judging by Tom's work, no error is too small to overlook.",Are all errors important to Tom?,N,8,12_depth_charge_exp_8.gif,9210
+204,A3,1,filler,filler,Someone who has fought in a war is a veteran.,Does the sentence mention a war? ,Y,8,1_filler_filler_8.gif,8360
+205,A3,2,filler,filler,The woman brought her sick pet dog to a veterinarian.,Was the animal a canine? ,Y,8,2_filler_filler_8.gif,8440
+206,A3,3,filler,filler,The vintage wedding dress was big and required an alteration.,Was the gown too small? ,N,8,3_filler_filler_8.gif,8520
+207,A3,4,filler,filler,Mediators prevented the dispute from escalating into a violent altercation.,Was there a disagreement? ,Y,8,4_filler_filler_8.gif,8660
+208,A3,5,filler,filler,The storyteller could turn any incident into an amusing anecdote.,Does the sentence mention a storyteller? ,Y,8,5_filler_filler_8.gif,8560
+209,A3,6,filler,filler,She saved him from the poison by administering an antidote.,Did she save him by amputating? ,N,8,6_filler_filler_8.gif,8500
+210,A3,7,filler,filler,Clownfish have evolved invulnerability to the poison tentacles of anemones.,Are the fish specially adapted? ,Y,8,7_filler_filler_8.gif,8660
+211,A3,8,filler,filler,The upscale apartment was complete with all these modern amenities.,Did the residence need an upgrade? ,N,8,8_filler_filler_8.gif,8580
+212,A3,9,filler,filler,The flooded river fertilized the fields with a rich sediment.,Did the river overflow its banks? ,Y,8,9_filler_filler_8.gif,8520
+213,A3,10,filler,filler,Political corruption and economic hardship fueled a growing anti-government sentiment.,Were people increasingly pro-government? ,N,8,10_filler_filler_8.gif,8770
+214,A3,11,filler,filler,Up on the tree branch perched a bright red cardinal.,Does the sentence mention a tree? ,Y,8,11_filler_filler_8.gif,8430
+215,A3,12,filler,filler,There is a beanbag toss game booth at this carnival.,Were the beanbags for a game? ,Y,8,12_filler_filler_8.gif,8430
+216,A3,1,Inversion,ctrl,The sister mailed the niece the letter.,Did the sister mailed her niece the letter?,Y,8,1_Inversion_ctrl_8.gif,6110
+217,A3,2,Inversion,exp,The mother gave the candle the daughter.,Did the mother give the candle to the daughter?,N,8,2_Inversion_exp_8.gif,6120
+218,A3,3,Inversion,ctrl,The uncle sold the father the truck.,Did the uncle sell the truck to the father?,Y,8,3_Inversion_ctrl_8.gif,6080
+219,A3,4,Inversion,exp,The contractor lent the saw the homeowner.,Did the homeowner receive the saw?,N,8,4_Inversion_exp_8.gif,6140
+220,A3,5,Inversion,ctrl,The sailing club leased the man the boat.,Did the club lease the boat to the man?,Y,8,5_Inversion_ctrl_8.gif,6860
+221,A3,6,Inversion,exp,The girl tossed the apple the boy.,Was the boy tossed by a fruit? ,N,8,6_Inversion_exp_8.gif,6060
+222,A3,7,Inversion,ctrl,The daughter passed the bowl to the mother.,Did the mother receive the bowl?,Y,8,7_Inversion_ctrl_8.gif,6880
+223,A3,8,Inversion,exp,The scuba instructor rented the tourist to the equipment.,Did the tourist get the equipment?,N,8,8_Inversion_exp_8.gif,7750
+224,A3,9,Inversion,ctrl,The boy handed the pencil to the girl.,Did the boy give the pencil to the girl?,Y,8,9_Inversion_ctrl_8.gif,6830
+225,A3,10,Inversion,exp,The nanny threw the child to the toy.,Did the nanny throw a toy?,N,8,10_Inversion_exp_8.gif,6820
+226,A3,11,Inversion,ctrl,The nephew mailed the postcard to the aunt.,Did the nephew mail the postcard?,Y,8,11_Inversion_ctrl_8.gif,6880
+227,A3,12,Inversion,exp,The father gave the son to the car.,Did the son get a car?,N,8,12_Inversion_exp_8.gif,6800
+228,A3,1,levy,ctrl,The coach smiled at the player thrown a frisbee by the opposing team.,Was the coach tossed a frisbee?,Y,8,1_levy_ctrl_8.gif,10790
+229,A3,2,levy,exp,The student sighed at the professor taught a dancing lesson by the exeprienced instructors.,Did the professor teach a dance lesson?,N,8,2_levy_exp_8.gif,11740
+230,A3,3,levy,ctrl,The kindergardener grinned at the little girl chosen a boy by her parents on the first day of Chanukah.,Was the kindergardener bought a boy?,N,8,3_levy_ctrl_8.gif,15510
+231,A3,4,levy,exp,The manager cursed at the waiter served pea soup by a trainee.,Was the waiter served pea soup?,Y,8,4_levy_exp_8.gif,9990
+232,A3,5,levy,ctrl,The priest frowned at the woman given a beer by the hostess.,Was the woman given a beer?,Y,8,5_levy_ctrl_8.gif,9970
+233,A3,6,levy,exp,The hotel owner scowled at the guest brought a drink by the bellboy.,Did the guest bring a drink?,N,8,6_levy_exp_8.gif,10780
+234,A3,7,levy,ctrl,James stared at the children hidden Easter eggs by their teachers?,Did the children hide Easter eggs?,N,8,7_levy_ctrl_8.gif,9300
+235,A3,8,levy,exp,The foreman cried out at a carpenter cut a board by his buddy.,Was the carpenter cut a board?,Y,8,8_levy_exp_8.gif,10720
+236,A3,9,levy,ctrl,The nurse grimaced at a student stolen a muffin by her friends from the dining hall.,Was the student stolen a muffin?,Y,8,9_levy_ctrl_8.gif,13130
+237,A3,10,levy,exp,The anthropologist looked on at the woman knitted a shawl by her mother.,Did the woman knit a shawl?,N,8,10_levy_exp_8.gif,10820
+238,A3,11,levy,ctrl,The town dunk snorted at the innkeeper sung a verse by a traveling monk.,Was the innkeeper sung a verse?,Y,8,11_levy_ctrl_8.gif,11550
+239,A3,12,levy,exp,The trader sneered at the banker clipped a coupon by her boss.,Did the trader clip a coupon?,N,8,12_levy_exp_8.gif,9990
+240,A3,1,mvrr,ctrl,A yellow frisbee that was dangled from the roof landed in the ditch.,Was the frisbee dangled from the roof?,Y,8,1_mvrr_ctrl_8.gif,10780
+241,A3,2,mvrr,exp,An impatient shopper shoved through the doors complained to the manager.,Was the shopper shoved?,Y,8,2_mvrr_exp_8.gif,9360
+242,A3,3,mvrr,ctrl,The drunk tourists who were heard on their balcony were asked to leave.,Did the drunk tourists hear something?,N,8,3_mvrr_ctrl_8.gif,10810
+243,A3,4,mvrr,exp,Several angry workers warned about low wages decided to file complaints.,Did the angry worked warn about the low wages?,N,8,4_mvrr_exp_8.gif,9360
+244,A3,5,mvrr,ctrl,Some rescue workers who were advised about the avalanche decided to stand by.,Did the rescue workers advise about the avalanche?,N,8,5_mvrr_ctrl_8.gif,10870
+245,A3,6,mvrr,exp,The aging professors phoned about the midterm were caught off guard.,Were the professors phoned about the midterm?,Y,8,6_mvrr_exp_8.gif,9320
+246,A3,7,mvrr,ctrl,The alert soldiers who were unloaded from the helicopter found their target quickly.,Were the soldiers unloaded?,Y,8,7_mvrr_ctrl_8.gif,10940
+247,A3,8,mvrr,exp,The brown sparrow signalled on a branch pecked at an insect.,Was the sparrow signalled?,Y,8,8_mvrr_exp_8.gif,9240
+248,A3,9,mvrr,ctrl,The calico cat who was licked in the alley ran into the street.,Was the calico cat licked?,Y,8,9_mvrr_ctrl_8.gif,10730
+249,A3,10,mvrr,exp,The computer programmers guaranteed the hard problem knew what to do.,Were the computer programmers guaranteed?,Y,8,10_mvrr_exp_8.gif,9330
+250,A3,11,mvrr,ctrl,The experienced chef who was assured about the stove burnt his hand anyway.,Was the chef assured about the stove?,Y,8,11_mvrr_ctrl_8.gif,10850
+251,A3,12,mvrr,exp,The cotton farmers told about bad floods had no other crops.,Were the cotton farmers told about bad floods?,Y,8,12_mvrr_exp_8.gif,9240
+252,A3,1,NPS,ctrl,The apprentice forgot that the bicycle was standing in the garage next to the car.,Did the apprentice forget the bicycle?,N,8,1_NPS_ctrl_8.gif,12380
+253,A3,2,NPS,exp,The army found the supplies saved many lives during the long conflict.,Did the army find some suppies?,N,8,2_NPS_exp_8.gif,10070
+254,A3,3,NPS,ctrl,The coach discovered that the player tried to show off all the time.,Did the coach discover a player?,N,8,3_NPS_ctrl_8.gif,10780
+255,A3,4,NPS,exp,The scientist proved the theory could help build cars with better mileage.,Did the scientist prove a theory?,N,8,4_NPS_exp_8.gif,10110
+256,A3,5,NPS,ctrl,The employees understood that the contract would be changed very soon to accommodate all parties.,Did the employee understand the change of the contract?,Y,8,5_NPS_ctrl_8.gif,12530
+257,A3,6,NPS,exp,The journalist confirmed the story would be published on the front page the next day.,Did the journalist confirm the publication date?,Y,8,6_NPS_exp_8.gif,12410
+258,A3,7,NPS,ctrl,The lawyer established that the alibi was not sufficient to free the defendant from blame.,Did the lawyer established the alibi?,N,8,7_NPS_ctrl_8.gif,12460
+259,A3,8,NPS,exp,The mechanic accepted the car looked in worse shape than before he worked on it.,Did the mechanic accept the car?,N,8,8_NPS_exp_8.gif,12360
+260,A3,9,NPS,ctrl,The traveler heard that the clock had woken everybody up in the youth hostel.,Did the traveler hear the clock?,N,8,9_NPS_ctrl_8.gif,11600
+261,A3,10,NPS,exp,The owners insured the house would never get flooded again when it rained.,Did the owner insure the house?,N,8,10_NPS_exp_8.gif,10840
+262,A3,11,NPS,ctrl,The priest recognized that two guests were necessary for the marriage to be legal.,Did the priest recognize the condition for legal marriage?,Y,8,11_NPS_ctrl_8.gif,11650
+263,A3,12,NPS,exp,The reporter revealed the politician received some payments from the unscrupulous millionaire.,Did the reporter reveal the bribery? ,Y,8,12_NPS_exp_8.gif,10310
+264,A3,1,NPZ,ctrl,"After the librarian called, the intern began returning books to the shelves.",Did the librarian call the intern?,Y,8,1_NPZ_ctrl_8.gif,10130
+265,A3,2,NPZ,exp,"After the mugger attacked the jogger was rubbing his sore leg, but it didn't help.",Did the mugger attach the jogger?,N,8,2_NPZ_exp_8.gif,12380
+266,A3,3,NPZ,ctrl,"Although the candidates debated, the issues were overlooked by most of the media who covered the campaign.",Did the candidates debate the issues?,Y,8,3_NPZ_ctrl_8.gif,14080
+267,A3,4,NPZ,exp,Although the maid cleaned the house was still in a state of total chaos.,Did the maid clean the house?,N,8,4_NPZ_exp_8.gif,11550
+268,A3,5,NPZ,ctrl,"As the couple danced, the tango began to be played by a live orchestra.",Did the couple dance the tango?,Y,8,5_NPZ_ctrl_8.gif,11540
+269,A3,6,NPZ,exp,As the customer paid the waitress could see how large the tip was.,Did the customer pay the waitress?,N,8,6_NPZ_exp_8.gif,10760
+270,A3,7,NPZ,ctrl,"Because the class failed, the exam was rewritten by the teacher so it was much easier.",Did the class fail the exam rewriteen by the teacher?,Y,8,7_NPZ_ctrl_8.gif,13150
+271,A3,8,NPZ,exp,Because the train stopped the traffic was rerouted through side streets for several hours.,Did the train stop the traffic?,N,8,8_NPZ_exp_8.gif,11730
+272,A3,9,NPZ,ctrl,"Before the tribe worshipped, the idol was placed on a large platform.",Did the tribe worship the idol?,Y,8,9_NPZ_ctrl_8.gif,10060
+273,A3,10,NPZ,exp,Even though the army surrendered the territory was filled with land mines that still had to be cleared.,Did the army surrender the territory?,N,8,10_NPZ_exp_8.gif,14780
+274,A3,11,NPZ,ctrl,"Even though the band left, the party went on for at least another two hours.",Did the band leave the party?,Y,8,11_NPZ_ctrl_8.gif,12320
+275,A3,12,NPZ,exp,Even though the girl phoned the instructor was very upset with her for missing a lesson.,Did the girl phone the instructor?,N,8,12_NPZ_exp_8.gif,13170
+276,A3,1,reversal,ctrl,The librarian documented which celebrities the journalist had interviewed for the magazine.,Was the journalist interviewed?,N,8,1_reversal_ctrl_8.gif,10280
+277,A3,2,reversal,exp,The old widower remembered which ghost the villager had haunted for many years.,Did the ghost hunt the villager?,N,8,2_reversal_exp_8.gif,10890
+278,A3,3,reversal,ctrl,The firefighter reported which victim the paramedic had saved after the fire.,Was the paramedic saved?,N,8,3_reversal_ctrl_8.gif,10140
+279,A3,4,reversal,exp,The historian documented which assassin the prince had killed in the 10th century.,Did the assassin kill the prince?,N,8,4_reversal_exp_8.gif,10920
+280,A3,5,reversal,ctrl,The park ranger documented which eagle the hunter had shot with a rifle.,Was the hunter shot?,N,8,5_reversal_ctrl_8.gif,10820
+281,A3,6,reversal,exp,The judo master recognized which assailant the defender had attacked late last night.,Was the defender attacked?,N,8,6_reversal_exp_8.gif,10950
+282,A3,7,reversal,ctrl,The naturalist observed which predators the deer had avoided by sleeping in the daytime.,Did the predator avoid the deer?,N,8,7_reversal_ctrl_8.gif,11710
+283,A3,8,reversal,exp,The restaurant owner forgot which waitress the customer had served during dinner yesterday.,Did the waitress serve the customer?,N,8,8_reversal_exp_8.gif,11010
+284,A3,9,reversal,ctrl,The head nun explained which friar the temptress had seduced after Sunday mass.,Was the temptress seduced?,N,8,9_reversal_ctrl_8.gif,10890
+285,A3,10,reversal,exp,The housekeeper showed which cat the mouse had killed under the table.,Was the mouse killed?,N,8,10_reversal_exp_8.gif,10070
+286,A3,11,reversal,ctrl,The nanny knew which housekeeper the billionaire had hired from their conversation.,Did the housekeeper hire the billionaire?,N,8,11_reversal_ctrl_8.gif,10200
+287,A3,12,reversal,exp,The researcher learned which biologist the whale had studied in the lab.,Did the biologist study the whale?,N,8,12_reversal_exp_8.gif,10090
+288,A4,1,depth_charge,ctrl,"In Maria's class, no test is so difficult that she would fail it.",Are all tests easy in Maria's class?,Y,12,1_depth_charge_ctrl_12.gif,14910
+289,A4,2,depth_charge,exp,"In Laura's opinion, no relationship is too volatile to fail.",Are all relationships stable in Laura's opinion?,N,12,2_depth_charge_exp_12.gif,11710
+290,A4,3,depth_charge,ctrl,"According to Mark, no drug is so dangerous that he would ban it.",Are all drugs safe in Mark's opinion?,Y,12,3_depth_charge_ctrl_12.gif,14900
+291,A4,4,depth_charge,exp,"Considering John's finances, no offer is too low to reject.",Are all offers acceptable to John?,N,12,4_depth_charge_exp_12.gif,11700
+292,A4,5,depth_charge,ctrl,"In Gideon's opinion, no habit is so annoying that he would discourage it.",Are all habits good in Gideon's opinion?,Y,12,5_depth_charge_ctrl_12.gif,14990
+293,A4,6,depth_charge,exp,"According to the geologist, no data is too complicated to misinterpret.",Are data easy to interpret according to the geologist? ,N,12,6_depth_charge_exp_12.gif,12870
+294,A4,7,depth_charge,ctrl,"According to the politician, no social program is so wasteful that he would oppose it.",Are all social programs useful?,Y,12,7_depth_charge_ctrl_12.gif,17220
+295,A4,8,depth_charge,exp,"For someone like Alex, no memory is too distant to forget.",Are all memories close for Alex?,N,12,8_depth_charge_exp_12.gif,12740
+296,A4,9,depth_charge,ctrl,"When it comes to Sharon's friends, no event is so inconvenient that she would skip it.",Are all friends' events convenient for Sharon?,Y,12,9_depth_charge_ctrl_12.gif,18270
+297,A4,10,depth_charge,exp,"During Kipp's presidential campaign, no rumor was too outlandish to deny.",Are all rumors usual during Kipps' campaign?,N,12,10_depth_charge_exp_12.gif,12890
+298,A4,11,depth_charge,ctrl,"According to the movie producer, no criticism is so trivial that he would ignore it.",Are all criticisms important to the movie producer?,Y,12,11_depth_charge_ctrl_12.gif,17200
+299,A4,12,depth_charge,exp,"Judging by Tom's work, no error is too small to overlook.",Are all errors important to Tom?,N,12,12_depth_charge_exp_12.gif,12730
+300,A4,1,filler,filler,Someone who has fought in a war is a veteran.,Does the sentence mention a war? ,Y,12,1_filler_filler_12.gif,11560
+301,A4,2,filler,filler,The woman brought her sick pet dog to a veterinarian.,Was the animal a canine? ,Y,12,2_filler_filler_12.gif,11640
+302,A4,3,filler,filler,The vintage wedding dress was big and required an alteration.,Was the gown too small? ,N,12,3_filler_filler_12.gif,11720
+303,A4,4,filler,filler,Mediators prevented the dispute from escalating into a violent altercation.,Was there a disagreement? ,Y,12,4_filler_filler_12.gif,11860
+304,A4,5,filler,filler,The storyteller could turn any incident into an amusing anecdote.,Does the sentence mention a storyteller? ,Y,12,5_filler_filler_12.gif,11760
+305,A4,6,filler,filler,She saved him from the poison by administering an antidote.,Did she save him by amputating? ,N,12,6_filler_filler_12.gif,11700
+306,A4,7,filler,filler,Clownfish have evolved invulnerability to the poison tentacles of anemones.,Are the fish specially adapted? ,Y,12,7_filler_filler_12.gif,11860
+307,A4,8,filler,filler,The upscale apartment was complete with all these modern amenities.,Did the residence need an upgrade? ,N,12,8_filler_filler_12.gif,11780
+308,A4,9,filler,filler,The flooded river fertilized the fields with a rich sediment.,Did the river overflow its banks? ,Y,12,9_filler_filler_12.gif,11720
+309,A4,10,filler,filler,Political corruption and economic hardship fueled a growing anti-government sentiment.,Were people increasingly pro-government? ,N,12,10_filler_filler_12.gif,11970
+310,A4,11,filler,filler,Up on the tree branch perched a bright red cardinal.,Does the sentence mention a tree? ,Y,12,11_filler_filler_12.gif,11630
+311,A4,12,filler,filler,There is a beanbag toss game booth at this carnival.,Were the beanbags for a game? ,Y,12,12_filler_filler_12.gif,11630
+312,A4,1,Inversion,ctrl,The sister mailed the niece the letter.,Did the sister mailed her niece the letter?,Y,12,1_Inversion_ctrl_12.gif,8350
+313,A4,2,Inversion,exp,The mother gave the candle the daughter.,Did the mother give the candle to the daughter?,N,12,2_Inversion_exp_12.gif,8360
+314,A4,3,Inversion,ctrl,The uncle sold the father the truck.,Did the uncle sell the truck to the father?,Y,12,3_Inversion_ctrl_12.gif,8320
+315,A4,4,Inversion,exp,The contractor lent the saw the homeowner.,Did the homeowner receive the saw?,N,12,4_Inversion_exp_12.gif,8380
+316,A4,5,Inversion,ctrl,The sailing club leased the man the boat.,Did the club lease the boat to the man?,Y,12,5_Inversion_ctrl_12.gif,9420
+317,A4,6,Inversion,exp,The girl tossed the apple the boy.,Was the boy tossed by a fruit? ,N,12,6_Inversion_exp_12.gif,8300
+318,A4,7,Inversion,ctrl,The daughter passed the bowl to the mother.,Did the mother receive the bowl?,Y,12,7_Inversion_ctrl_12.gif,9440
+319,A4,8,Inversion,exp,The scuba instructor rented the tourist to the equipment.,Did the tourist get the equipment?,N,12,8_Inversion_exp_12.gif,10630
+320,A4,9,Inversion,ctrl,The boy handed the pencil to the girl.,Did the boy give the pencil to the girl?,Y,12,9_Inversion_ctrl_12.gif,9390
+321,A4,10,Inversion,exp,The nanny threw the child to the toy.,Did the nanny throw a toy?,N,12,10_Inversion_exp_12.gif,9380
+322,A4,11,Inversion,ctrl,The nephew mailed the postcard to the aunt.,Did the nephew mail the postcard?,Y,12,11_Inversion_ctrl_12.gif,9440
+323,A4,12,Inversion,exp,The father gave the son to the car.,Did the son get a car?,N,12,12_Inversion_exp_12.gif,9360
+324,A4,1,levy,ctrl,The coach smiled at the player thrown a frisbee by the opposing team.,Was the coach tossed a frisbee?,Y,12,1_levy_ctrl_12.gif,14950
+325,A4,2,levy,exp,The student sighed at the professor taught a dancing lesson by the exeprienced instructors.,Did the professor teach a dance lesson?,N,12,2_levy_exp_12.gif,16220
+326,A4,3,levy,ctrl,The kindergardener grinned at the little girl chosen a boy by her parents on the first day of Chanukah.,Was the kindergardener bought a boy?,N,12,3_levy_ctrl_12.gif,21590
+327,A4,4,levy,exp,The manager cursed at the waiter served pea soup by a trainee.,Was the waiter served pea soup?,Y,12,4_levy_exp_12.gif,13830
+328,A4,5,levy,ctrl,The priest frowned at the woman given a beer by the hostess.,Was the woman given a beer?,Y,12,5_levy_ctrl_12.gif,13810
+329,A4,6,levy,exp,The hotel owner scowled at the guest brought a drink by the bellboy.,Did the guest bring a drink?,N,12,6_levy_exp_12.gif,14940
+330,A4,7,levy,ctrl,James stared at the children hidden Easter eggs by their teachers?,Did the children hide Easter eggs?,N,12,7_levy_ctrl_12.gif,12820
+331,A4,8,levy,exp,The foreman cried out at a carpenter cut a board by his buddy.,Was the carpenter cut a board?,Y,12,8_levy_exp_12.gif,14880
+332,A4,9,levy,ctrl,The nurse grimaced at a student stolen a muffin by her friends from the dining hall.,Was the student stolen a muffin?,Y,12,9_levy_ctrl_12.gif,18250
+333,A4,10,levy,exp,The anthropologist looked on at the woman knitted a shawl by her mother.,Did the woman knit a shawl?,N,12,10_levy_exp_12.gif,14980
+334,A4,11,levy,ctrl,The town dunk snorted at the innkeeper sung a verse by a traveling monk.,Was the innkeeper sung a verse?,Y,12,11_levy_ctrl_12.gif,16030
+335,A4,12,levy,exp,The trader sneered at the banker clipped a coupon by her boss.,Did the trader clip a coupon?,N,12,12_levy_exp_12.gif,13830
+336,A4,1,mvrr,ctrl,A yellow frisbee that was dangled from the roof landed in the ditch.,Was the frisbee dangled from the roof?,Y,12,1_mvrr_ctrl_12.gif,14940
+337,A4,2,mvrr,exp,An impatient shopper shoved through the doors complained to the manager.,Was the shopper shoved?,Y,12,2_mvrr_exp_12.gif,12880
+338,A4,3,mvrr,ctrl,The drunk tourists who were heard on their balcony were asked to leave.,Did the drunk tourists hear something?,N,12,3_mvrr_ctrl_12.gif,14970
+339,A4,4,mvrr,exp,Several angry workers warned about low wages decided to file complaints.,Did the angry worked warn about the low wages?,N,12,4_mvrr_exp_12.gif,12880
+340,A4,5,mvrr,ctrl,Some rescue workers who were advised about the avalanche decided to stand by.,Did the rescue workers advise about the avalanche?,N,12,5_mvrr_ctrl_12.gif,15030
+341,A4,6,mvrr,exp,The aging professors phoned about the midterm were caught off guard.,Were the professors phoned about the midterm?,Y,12,6_mvrr_exp_12.gif,12840
+342,A4,7,mvrr,ctrl,The alert soldiers who were unloaded from the helicopter found their target quickly.,Were the soldiers unloaded?,Y,12,7_mvrr_ctrl_12.gif,15100
+343,A4,8,mvrr,exp,The brown sparrow signalled on a branch pecked at an insect.,Was the sparrow signalled?,Y,12,8_mvrr_exp_12.gif,12760
+344,A4,9,mvrr,ctrl,The calico cat who was licked in the alley ran into the street.,Was the calico cat licked?,Y,12,9_mvrr_ctrl_12.gif,14890
+345,A4,10,mvrr,exp,The computer programmers guaranteed the hard problem knew what to do.,Were the computer programmers guaranteed?,Y,12,10_mvrr_exp_12.gif,12850
+346,A4,11,mvrr,ctrl,The experienced chef who was assured about the stove burnt his hand anyway.,Was the chef assured about the stove?,Y,12,11_mvrr_ctrl_12.gif,15010
+347,A4,12,mvrr,exp,The cotton farmers told about bad floods had no other crops.,Were the cotton farmers told about bad floods?,Y,12,12_mvrr_exp_12.gif,12760
+348,A4,1,NPS,ctrl,The apprentice forgot that the bicycle was standing in the garage next to the car.,Did the apprentice forget the bicycle?,N,12,1_NPS_ctrl_12.gif,17180
+349,A4,2,NPS,exp,The army found the supplies saved many lives during the long conflict.,Did the army find some suppies?,N,12,2_NPS_exp_12.gif,13910
+350,A4,3,NPS,ctrl,The coach discovered that the player tried to show off all the time.,Did the coach discover a player?,N,12,3_NPS_ctrl_12.gif,14940
+351,A4,4,NPS,exp,The scientist proved the theory could help build cars with better mileage.,Did the scientist prove a theory?,N,12,4_NPS_exp_12.gif,13950
+352,A4,5,NPS,ctrl,The employees understood that the contract would be changed very soon to accommodate all parties.,Did the employee understand the change of the contract?,Y,12,5_NPS_ctrl_12.gif,17330
+353,A4,6,NPS,exp,The journalist confirmed the story would be published on the front page the next day.,Did the journalist confirm the publication date?,Y,12,6_NPS_exp_12.gif,17210
+354,A4,7,NPS,ctrl,The lawyer established that the alibi was not sufficient to free the defendant from blame.,Did the lawyer established the alibi?,N,12,7_NPS_ctrl_12.gif,17260
+355,A4,8,NPS,exp,The mechanic accepted the car looked in worse shape than before he worked on it.,Did the mechanic accept the car?,N,12,8_NPS_exp_12.gif,17160
+356,A4,9,NPS,ctrl,The traveler heard that the clock had woken everybody up in the youth hostel.,Did the traveler hear the clock?,N,12,9_NPS_ctrl_12.gif,16080
+357,A4,10,NPS,exp,The owners insured the house would never get flooded again when it rained.,Did the owner insure the house?,N,12,10_NPS_exp_12.gif,15000
+358,A4,11,NPS,ctrl,The priest recognized that two guests were necessary for the marriage to be legal.,Did the priest recognize the condition for legal marriage?,Y,12,11_NPS_ctrl_12.gif,16130
+359,A4,12,NPS,exp,The reporter revealed the politician received some payments from the unscrupulous millionaire.,Did the reporter reveal the bribery? ,Y,12,12_NPS_exp_12.gif,14150
+360,A4,1,NPZ,ctrl,"After the librarian called, the intern began returning books to the shelves.",Did the librarian call the intern?,Y,12,1_NPZ_ctrl_12.gif,13970
+361,A4,2,NPZ,exp,"After the mugger attacked the jogger was rubbing his sore leg, but it didn't help.",Did the mugger attach the jogger?,N,12,2_NPZ_exp_12.gif,17180
+362,A4,3,NPZ,ctrl,"Although the candidates debated, the issues were overlooked by most of the media who covered the campaign.",Did the candidates debate the issues?,Y,12,3_NPZ_ctrl_12.gif,19520
+363,A4,4,NPZ,exp,Although the maid cleaned the house was still in a state of total chaos.,Did the maid clean the house?,N,12,4_NPZ_exp_12.gif,16030
+364,A4,5,NPZ,ctrl,"As the couple danced, the tango began to be played by a live orchestra.",Did the couple dance the tango?,Y,12,5_NPZ_ctrl_12.gif,16020
+365,A4,6,NPZ,exp,As the customer paid the waitress could see how large the tip was.,Did the customer pay the waitress?,N,12,6_NPZ_exp_12.gif,14920
+366,A4,7,NPZ,ctrl,"Because the class failed, the exam was rewritten by the teacher so it was much easier.",Did the class fail the exam rewriteen by the teacher?,Y,12,7_NPZ_ctrl_12.gif,18270
+367,A4,8,NPZ,exp,Because the train stopped the traffic was rerouted through side streets for several hours.,Did the train stop the traffic?,N,12,8_NPZ_exp_12.gif,16210
+368,A4,9,NPZ,ctrl,"Before the tribe worshipped, the idol was placed on a large platform.",Did the tribe worship the idol?,Y,12,9_NPZ_ctrl_12.gif,13900
+369,A4,10,NPZ,exp,Even though the army surrendered the territory was filled with land mines that still had to be cleared.,Did the army surrender the territory?,N,12,10_NPZ_exp_12.gif,20540
+370,A4,11,NPZ,ctrl,"Even though the band left, the party went on for at least another two hours.",Did the band leave the party?,Y,12,11_NPZ_ctrl_12.gif,17120
+371,A4,12,NPZ,exp,Even though the girl phoned the instructor was very upset with her for missing a lesson.,Did the girl phone the instructor?,N,12,12_NPZ_exp_12.gif,18290
+372,A4,1,reversal,ctrl,The librarian documented which celebrities the journalist had interviewed for the magazine.,Was the journalist interviewed?,N,12,1_reversal_ctrl_12.gif,14120
+373,A4,2,reversal,exp,The old widower remembered which ghost the villager had haunted for many years.,Did the ghost hunt the villager?,N,12,2_reversal_exp_12.gif,15050
+374,A4,3,reversal,ctrl,The firefighter reported which victim the paramedic had saved after the fire.,Was the paramedic saved?,N,12,3_reversal_ctrl_12.gif,13980
+375,A4,4,reversal,exp,The historian documented which assassin the prince had killed in the 10th century.,Did the assassin kill the prince?,N,12,4_reversal_exp_12.gif,15080
+376,A4,5,reversal,ctrl,The park ranger documented which eagle the hunter had shot with a rifle.,Was the hunter shot?,N,12,5_reversal_ctrl_12.gif,14980
+377,A4,6,reversal,exp,The judo master recognized which assailant the defender had attacked late last night.,Was the defender attacked?,N,12,6_reversal_exp_12.gif,15110
+378,A4,7,reversal,ctrl,The naturalist observed which predators the deer had avoided by sleeping in the daytime.,Did the predator avoid the deer?,N,12,7_reversal_ctrl_12.gif,16190
+379,A4,8,reversal,exp,The restaurant owner forgot which waitress the customer had served during dinner yesterday.,Did the waitress serve the customer?,N,12,8_reversal_exp_12.gif,15170
+380,A4,9,reversal,ctrl,The head nun explained which friar the temptress had seduced after Sunday mass.,Was the temptress seduced?,N,12,9_reversal_ctrl_12.gif,15050
+381,A4,10,reversal,exp,The housekeeper showed which cat the mouse had killed under the table.,Was the mouse killed?,N,12,10_reversal_exp_12.gif,13910
+382,A4,11,reversal,ctrl,The nanny knew which housekeeper the billionaire had hired from their conversation.,Did the housekeeper hire the billionaire?,N,12,11_reversal_ctrl_12.gif,14040
+383,A4,12,reversal,exp,The researcher learned which biologist the whale had studied in the lab.,Did the biologist study the whale?,N,12,12_reversal_exp_12.gif,13930
+384,B1,1,depth_charge,exp,"In Maria's class, no test is too difficult to fail.",Are all tests easy in Maria's class?,N,1,1_depth_charge_exp_1.gif,2820
+385,B1,2,depth_charge,ctrl,"In Laura's opinion, no relationship is so volatile that she would fail it.",Are all relationships stable in Laura's opinion?,Y,1,2_depth_charge_ctrl_1.gif,3560
+386,B1,3,depth_charge,exp,"According to Mark, no drug is too dangerous to ban.",Are all drugs safe in Mark's opinion?,N,1,3_depth_charge_exp_1.gif,2820
+387,B1,4,depth_charge,ctrl,"Considering John's finances, no offer is so low that he would reject it.",Are all offers acceptable to John?,Y,1,4_depth_charge_ctrl_1.gif,3540
+388,B1,5,depth_charge,exp,"In Gideon's opinion, no habit is too annoying to discourage.",Are all habits good in Gideon's opinion?,N,1,5_depth_charge_exp_1.gif,2910
+389,B1,6,depth_charge,ctrl,"According to the geologist, no data is so complicated that she would misinterpret it.",Are data easy to interpret according to the geologist? ,Y,1,6_depth_charge_ctrl_1.gif,3840
+390,B1,7,depth_charge,exp,"According to the politician, no social program is too wasteful to oppose.",Are all social programs useful?,N,1,7_depth_charge_exp_1.gif,3380
+391,B1,8,depth_charge,ctrl,"For someone like Alex, no memory is so distant that he would forget it.",Are all memories close for Alex?,Y,1,8_depth_charge_ctrl_1.gif,3700
+392,B1,9,depth_charge,exp,"When it comes to Sharon's friends, no event is too inconvenient to skip.",Are all friends' events convenient for Sharon?,N,1,9_depth_charge_exp_1.gif,3540
+393,B1,10,depth_charge,ctrl,"During Kipp's presidential campaign, no rumor was so outlandish that he would deny it.",Are all rumors usual during Kipps' campaign?,Y,1,10_depth_charge_ctrl_1.gif,3850
+394,B1,11,depth_charge,exp,"According to the movie producer, no criticism is too trivial to ignore.",Are all criticisms important to the movie producer?,N,1,11_depth_charge_exp_1.gif,3360
+395,B1,12,depth_charge,ctrl,"Judging by Tom's work, no error is so small that he would overlook it.",Are all errors important to Tom?,Y,1,12_depth_charge_ctrl_1.gif,3690
+396,B1,1,filler,filler,Someone who has fought in a war is a veteran.,Does the sentence mention a war? ,Y,1,1_filler_filler_1.gif,2760
+397,B1,2,filler,filler,The woman brought her sick pet dog to a veterinarian.,Was the animal a canine? ,Y,1,2_filler_filler_1.gif,2840
+398,B1,3,filler,filler,The vintage wedding dress was big and required an alteration.,Was the gown too small? ,N,1,3_filler_filler_1.gif,2920
+399,B1,4,filler,filler,Mediators prevented the dispute from escalating into a violent altercation.,Was there a disagreement? ,Y,1,4_filler_filler_1.gif,3060
+400,B1,5,filler,filler,The storyteller could turn any incident into an amusing anecdote.,Does the sentence mention a storyteller? ,Y,1,5_filler_filler_1.gif,2960
+401,B1,6,filler,filler,She saved him from the poison by administering an antidote.,Did she save him by amputating? ,N,1,6_filler_filler_1.gif,2900
+402,B1,7,filler,filler,Clownfish have evolved invulnerability to the poison tentacles of anemones.,Are the fish specially adapted? ,Y,1,7_filler_filler_1.gif,3060
+403,B1,8,filler,filler,The upscale apartment was complete with all these modern amenities.,Did the residence need an upgrade? ,N,1,8_filler_filler_1.gif,2980
+404,B1,9,filler,filler,The flooded river fertilized the fields with a rich sediment.,Did the river overflow its banks? ,Y,1,9_filler_filler_1.gif,2920
+405,B1,10,filler,filler,Political corruption and economic hardship fueled a growing anti-government sentiment.,Were people increasingly pro-government? ,N,1,10_filler_filler_1.gif,3170
+406,B1,11,filler,filler,Up on the tree branch perched a bright red cardinal.,Does the sentence mention a tree? ,Y,1,11_filler_filler_1.gif,2830
+407,B1,12,filler,filler,There is a beanbag toss game booth at this carnival.,Were the beanbags for a game? ,Y,1,12_filler_filler_1.gif,2830
+408,B1,1,Inversion,exp,The sister mailed the letter the niece.,Did the sister mailed her niece the letter?,N,1,1_Inversion_exp_1.gif,2190
+409,B1,2,Inversion,ctrl,The mother gave the daughter the candle.,Did the mother give the candle to the daughter?,Y,1,2_Inversion_ctrl_1.gif,2200
+410,B1,3,Inversion,exp,The uncle sold the truck the father.,Did the uncle sell the truck to the father?,N,1,3_Inversion_exp_1.gif,2160
+411,B1,4,Inversion,ctrl,The contractor lent the homeowner the saw.,Did the homeowner receive the saw?,Y,1,4_Inversion_ctrl_1.gif,2220
+412,B1,5,Inversion,exp,The sailing club leased the boat the man.,Did the club lease the boat to the man?,N,1,5_Inversion_exp_1.gif,2380
+413,B1,6,Inversion,ctrl,The girl tossed the boy the apple.,Was the boy tossed by a fruit? ,Y,1,6_Inversion_ctrl_1.gif,2140
+414,B1,7,Inversion,exp,The daughter passed the mother to the bowl.,Did the mother receive the bowl?,N,1,7_Inversion_exp_1.gif,2400
+415,B1,8,Inversion,ctrl,The scuba instructor rented the equipment to the tourist.,Did the tourist get the equipment?,Y,1,8_Inversion_ctrl_1.gif,2710
+416,B1,9,Inversion,exp,The boy handed the girl to the pencil.,Did the boy give the pencil to the girl?,N,1,9_Inversion_exp_1.gif,2350
+417,B1,10,Inversion,ctrl,The nanny threw the toy to the child.,Did the nanny throw a toy?,Y,1,10_Inversion_ctrl_1.gif,2340
+418,B1,11,Inversion,exp,The nephew mailed the aunt to the postcard.,Did the nephew mail the postcard?,N,1,11_Inversion_exp_1.gif,2400
+419,B1,12,Inversion,ctrl,The father gave the car to the son.,Did the son get a car?,Y,1,12_Inversion_ctrl_1.gif,2320
+420,B1,1,levy,exp,The coach smiled at the player tossed a frisbee by the opposing team.,Was the coach tossed a frisbee?,Y,1,1_levy_exp_1.gif,3510
+421,B1,2,levy,ctrl,The student sighed at the professor given a dancing lesson by the exeprienced instructors.,Did the professor teach a dance lesson?,N,1,2_levy_ctrl_1.gif,3890
+422,B1,3,levy,exp,The kindergardener grinned at the little girl brought a boy by her parents on the first day of Chanukah.,Was the kindergardener bought a boy?,N,1,3_levy_exp_1.gif,4880
+423,B1,4,levy,ctrl,The manager cursed at the waiter given pea soup by a trainee.,Was the waiter given pea soup?,Y,1,4_levy_ctrl_1.gif,3260
+424,B1,5,levy,exp,The priest frowned at the woman offered a beer by the hostess.,Was the woman given a beer?,Y,1,5_levy_exp_1.gif,3270
+425,B1,6,levy,ctrl,The hotel owner scowled at the guest taken a drink by the bellboy.,Did the guest take a drink?,N,1,6_levy_ctrl_1.gif,3480
+426,B1,7,levy,exp,James stared at the children dyed Easter eggs by their teachers?,Did the children dye Easter eggs?,N,1,7_levy_exp_1.gif,3120
+427,B1,8,levy,ctrl,The foreman cried out at a carpenter sawn a board by his buddy.,Was the carpenter sawn a board?,Y,1,8_levy_ctrl_1.gif,3450
+428,B1,9,levy,exp,The nurse grimaced at a student grabbed a muffin by her friends from the dining hall.,Was the student grabbed a muffin?,Y,1,9_levy_exp_1.gif,4180
+429,B1,10,levy,ctrl,The anthropologist looked on at the woman woven a shawl by her mother.,Did the woman weave a shawl?,N,1,10_levy_ctrl_1.gif,3520
+430,B1,11,levy,exp,The town dunk snorted at the innkeeper recited a verse by a traveling monk.,Was the innkeeper recited a verse?,Y,1,11_levy_exp_1.gif,3740
+431,B1,12,levy,ctrl,The trader sneered at the banker given a coupon by her boss.,Did the trader give a coupon?,N,1,12_levy_ctrl_1.gif,3250
+432,B1,1,mvrr,exp,A yellow frisbee dangled from the roof landed in the ditch.,Was the frisbee dangled from the roof?,Y,1,1_mvrr_exp_1.gif,3070
+433,B1,2,mvrr,ctrl,An impatient shopper who was shoved through the doors complained to the manager.,Was the shopper shoved?,Y,1,2_mvrr_ctrl_1.gif,3620
+434,B1,3,mvrr,exp,The drunk tourists heard on their balcony were asked to leave.,Did the drunk tourists hear something?,N,1,3_mvrr_exp_1.gif,3100
+435,B1,4,mvrr,ctrl,Several angry workers who were warned about low wages decided to file complaints.,Did the angry worked warn about the low wages?,N,1,4_mvrr_ctrl_1.gif,3630
+436,B1,5,mvrr,exp,Some rescue workers advised about the avalanche decided to stand by.,Did the rescue workers advise about the avalanche?,N,1,5_mvrr_exp_1.gif,3160
+437,B1,6,mvrr,ctrl,The aging professors who were phoned about the midterm were caught off guard.,Were the professors phoned about the midterm?,Y,1,6_mvrr_ctrl_1.gif,3590
+438,B1,7,mvrr,exp,The alert soldiers unloaded from the helicopter found their target quickly.,Were the soldiers unloaded?,Y,1,7_mvrr_exp_1.gif,3230
+439,B1,8,mvrr,ctrl,The brown sparrow who was signalled on a branch pecked at an insect.,Was the sparrow signalled?,Y,1,8_mvrr_ctrl_1.gif,3500
+440,B1,9,mvrr,exp,The calico cat licked in the alley ran into the street.,Was the calico cat licked?,Y,1,9_mvrr_exp_1.gif,3030
+441,B1,10,mvrr,ctrl,The computer programmers who were guaranteed the hard problem knew what to do.,Were the computer programmers guaranteed?,Y,1,10_mvrr_ctrl_1.gif,3600
+442,B1,11,mvrr,exp,The experienced chef assured about the stove burnt his hand anyway.,Was the chef assured about the stove?,Y,1,11_mvrr_exp_1.gif,3150
+443,B1,12,mvrr,ctrl,The cotton farmers who were told about bad floods had no other crops.,Were the cotton farmers told about bad floods?,Y,1,12_mvrr_ctrl_1.gif,3510
+444,B1,1,NPS,exp,The apprentice forgot the bicycle was standing in the garage next to the car.,Did the apprentice forget the bicycle?,N,1,1_NPS_exp_1.gif,3760
+445,B1,2,NPS,ctrl,The army found that the supplies saved many lives during the long conflict.,Did the army find some suppies?,N,1,2_NPS_ctrl_1.gif,3570
+446,B1,3,NPS,exp,The coach discovered the player tried to show off all the time.,Did the coach discover a player?,N,1,3_NPS_exp_1.gif,3280
+447,B1,4,NPS,ctrl,The scientist proved that the theory could help build cars with better mileage.,Did the scientist prove a theory?,N,1,4_NPS_ctrl_1.gif,3610
+448,B1,5,NPS,exp,The employees understood the contract would be changed very soon to accommodate all parties.,Did the employee understand the change of the contract?,Y,1,5_NPS_exp_1.gif,3910
+449,B1,6,NPS,ctrl,The journalist confirmed that the story would be published on the front page the next day.,Did the journalist confirm the publication date?,Y,1,6_NPS_ctrl_1.gif,4230
+450,B1,7,NPS,exp,The lawyer established the alibi was not sufficient to free the defendant from blame.,Did the lawyer established the alibi?,N,1,7_NPS_exp_1.gif,3840
+451,B1,8,NPS,ctrl,The mechanic accepted that the car looked in worse shape than before he worked on it.,Did the mechanic accept the car?,N,1,8_NPS_ctrl_1.gif,4180
+452,B1,9,NPS,exp,The traveler heard the clock had woken everybody up in the youth hostel.,Did the traveler hear the clock?,N,1,9_NPS_exp_1.gif,3540
+453,B1,10,NPS,ctrl,The owners insured that the house would never get flooded again when it rained.,Did the owner insure the house?,N,1,10_NPS_ctrl_1.gif,3780
+454,B1,11,NPS,exp,The priest recognized two guests were necessary for the marriage to be legal.,Did the priest recognize the condition for legal marriage?,Y,1,11_NPS_exp_1.gif,3590
+455,B1,12,NPS,ctrl,The reporter revealed that the politician received some payments from the unscrupulous millionaire.,Did the reporter reveal the bribery? ,Y,1,12_NPS_ctrl_1.gif,3810
+456,B1,1,NPZ,exp,After the librarian called the intern began returning books to the shelves.,Did the librarian call the intern?,N,1,1_NPZ_exp_1.gif,3400
+457,B1,2,NPZ,ctrl,"After the mugger attacked, the jogger was rubbing his sore leg, but it didn't help.",Did the mugger attach the jogger?,Y,1,2_NPZ_ctrl_1.gif,3990
+458,B1,3,NPZ,exp,Although the candidates debated the issues were overlooked by most of the media who covered the campaign.,Did the candidates debate the issues?,N,1,3_NPZ_exp_1.gif,4550
+459,B1,4,NPZ,ctrl,"Although the maid cleaned, the house was still in a state of total chaos.",Did the maid clean the house?,Y,1,4_NPZ_ctrl_1.gif,3720
+460,B1,5,NPZ,exp,As the couple danced the tango began to be played by a live orchestra.,Did the couple dance the tango?,N,1,5_NPZ_exp_1.gif,3690
+461,B1,6,NPZ,ctrl,"As the customer paid, the waitress could see how large the tip was.",Did the customer pay the waitress?,Y,1,6_NPZ_ctrl_1.gif,3490
+462,B1,7,NPZ,exp,Because the class failed the exam was rewritten by the teacher so it was much easier.,Did the class fail the exam rewriteen by the teacher?,N,1,7_NPZ_exp_1.gif,4180
+463,B1,8,NPZ,ctrl,"Because the train stopped, the traffic was rerouted through side streets for several hours.",Did the train stop the traffic?,Y,1,8_NPZ_ctrl_1.gif,3900
+464,B1,9,NPZ,exp,Before the tribe worshipped the idol was placed on a large platform.,Did the tribe worship the idol?,N,1,9_NPZ_exp_1.gif,3330
+465,B1,10,NPZ,ctrl,"Even though the army surrendered, the territory was filled with land mines that still had to be cleared.",Did the army surrender the territory?,Y,1,10_NPZ_ctrl_1.gif,4710
+466,B1,11,NPZ,exp,Even though the band left the party went on for at least another two hours.,Did the band leave the party?,N,1,11_NPZ_exp_1.gif,3910
+467,B1,12,NPZ,ctrl,"Even though the girl phoned, the instructor was very upset with her for missing a lesson.",Did the girl phone the instructor?,Y,1,12_NPZ_ctrl_1.gif,4220
+468,B1,1,reversal,exp,The librarian documented which journalist the celebrities had interviewed for the magazine.,Was the journalist interviewed?,Y,1,1_reversal_exp_1.gif,3560
+469,B1,2,reversal,ctrl,The old widower remembered which villager the ghost had haunted for many years.,Did the ghost hunt the villager?,Y,1,2_reversal_ctrl_1.gif,3610
+470,B1,3,reversal,exp,The firefighter reported which paramedic the victim had saved after the fire.,Was the paramedic saved?,Y,1,3_reversal_exp_1.gif,3420
+471,B1,4,reversal,ctrl,The historian documented which prince the assassin had killed in the 10th century.,Did the assassin kill the prince?,Y,1,4_reversal_ctrl_1.gif,3640
+472,B1,5,reversal,exp,The park ranger documented which hunter the eagle had shot with a rifle.,Was the hunter shot?,Y,1,5_reversal_exp_1.gif,3540
+473,B1,6,reversal,ctrl,The judo master recognized which defender the assailant had attacked late last night.,Was the defender attacked?,Y,1,6_reversal_ctrl_1.gif,3670
+474,B1,7,reversal,exp,The naturalist observed which deer the predators had avoided by sleeping in the daytime.,Did the predator avoid the deer?,Y,1,7_reversal_exp_1.gif,3870
+475,B1,8,reversal,ctrl,The restaurant owner forgot which customer the waitress had served during dinner yesterday.,Did the waitress serve the customer?,Y,1,8_reversal_ctrl_1.gif,3730
+476,B1,9,reversal,exp,The head nun explained which temptress the friar had seduced after Sunday mass.,Was the temptress seduced?,Y,1,9_reversal_exp_1.gif,3610
+477,B1,10,reversal,ctrl,The housekeeper showed which mouse the cat had killed under the table.,Was the mouse killed?,Y,1,10_reversal_ctrl_1.gif,3350
+478,B1,11,reversal,exp,The nanny knew which billionaire the housekeeper had hired from their conversation.,Did the housekeeper hire the billionaire?,Y,1,11_reversal_exp_1.gif,3480
+479,B1,12,reversal,ctrl,The researcher learned which whale the biologist had studied in the lab.,Did the biologist study the whale?,Y,1,12_reversal_ctrl_1.gif,3370
+480,B2,1,depth_charge,exp,"In Maria's class, no test is too difficult to fail.",Are all tests easy in Maria's class?,N,4,1_depth_charge_exp_4.gif,5220
+481,B2,2,depth_charge,ctrl,"In Laura's opinion, no relationship is so volatile that she would fail it.",Are all relationships stable in Laura's opinion?,Y,4,2_depth_charge_ctrl_4.gif,6680
+482,B2,3,depth_charge,exp,"According to Mark, no drug is too dangerous to ban.",Are all drugs safe in Mark's opinion?,N,4,3_depth_charge_exp_4.gif,5220
+483,B2,4,depth_charge,ctrl,"Considering John's finances, no offer is so low that he would reject it.",Are all offers acceptable to John?,Y,4,4_depth_charge_ctrl_4.gif,6660
+484,B2,5,depth_charge,exp,"In Gideon's opinion, no habit is too annoying to discourage.",Are all habits good in Gideon's opinion?,N,4,5_depth_charge_exp_4.gif,5310
+485,B2,6,depth_charge,ctrl,"According to the geologist, no data is so complicated that she would misinterpret it.",Are data easy to interpret according to the geologist? ,Y,4,6_depth_charge_ctrl_4.gif,7200
+486,B2,7,depth_charge,exp,"According to the politician, no social program is too wasteful to oppose.",Are all social programs useful?,N,4,7_depth_charge_exp_4.gif,6260
+487,B2,8,depth_charge,ctrl,"For someone like Alex, no memory is so distant that he would forget it.",Are all memories close for Alex?,Y,4,8_depth_charge_ctrl_4.gif,7060
+488,B2,9,depth_charge,exp,"When it comes to Sharon's friends, no event is too inconvenient to skip.",Are all friends' events convenient for Sharon?,N,4,9_depth_charge_exp_4.gif,6660
+489,B2,10,depth_charge,ctrl,"During Kipp's presidential campaign, no rumor was so outlandish that he would deny it.",Are all rumors usual during Kipps' campaign?,Y,4,10_depth_charge_ctrl_4.gif,7210
+490,B2,11,depth_charge,exp,"According to the movie producer, no criticism is too trivial to ignore.",Are all criticisms important to the movie producer?,N,4,11_depth_charge_exp_4.gif,6240
+491,B2,12,depth_charge,ctrl,"Judging by Tom's work, no error is so small that he would overlook it.",Are all errors important to Tom?,Y,4,12_depth_charge_ctrl_4.gif,7050
+492,B2,1,filler,filler,Someone who has fought in a war is a veteran.,Does the sentence mention a war? ,Y,4,1_filler_filler_4.gif,5160
+493,B2,2,filler,filler,The woman brought her sick pet dog to a veterinarian.,Was the animal a canine? ,Y,4,2_filler_filler_4.gif,5240
+494,B2,3,filler,filler,The vintage wedding dress was big and required an alteration.,Was the gown too small? ,N,4,3_filler_filler_4.gif,5320
+495,B2,4,filler,filler,Mediators prevented the dispute from escalating into a violent altercation.,Was there a disagreement? ,Y,4,4_filler_filler_4.gif,5460
+496,B2,5,filler,filler,The storyteller could turn any incident into an amusing anecdote.,Does the sentence mention a storyteller? ,Y,4,5_filler_filler_4.gif,5360
+497,B2,6,filler,filler,She saved him from the poison by administering an antidote.,Did she save him by amputating? ,N,4,6_filler_filler_4.gif,5300
+498,B2,7,filler,filler,Clownfish have evolved invulnerability to the poison tentacles of anemones.,Are the fish specially adapted? ,Y,4,7_filler_filler_4.gif,5460
+499,B2,8,filler,filler,The upscale apartment was complete with all these modern amenities.,Did the residence need an upgrade? ,N,4,8_filler_filler_4.gif,5380
+500,B2,9,filler,filler,The flooded river fertilized the fields with a rich sediment.,Did the river overflow its banks? ,Y,4,9_filler_filler_4.gif,5320
+501,B2,10,filler,filler,Political corruption and economic hardship fueled a growing anti-government sentiment.,Were people increasingly pro-government? ,N,4,10_filler_filler_4.gif,5570
+502,B2,11,filler,filler,Up on the tree branch perched a bright red cardinal.,Does the sentence mention a tree? ,Y,4,11_filler_filler_4.gif,5230
+503,B2,12,filler,filler,There is a beanbag toss game booth at this carnival.,Were the beanbags for a game? ,Y,4,12_filler_filler_4.gif,5230
+504,B2,1,Inversion,exp,The sister mailed the letter the niece.,Did the sister mailed her niece the letter?,N,4,1_Inversion_exp_4.gif,3870
+505,B2,2,Inversion,ctrl,The mother gave the daughter the candle.,Did the mother give the candle to the daughter?,Y,4,2_Inversion_ctrl_4.gif,3880
+506,B2,3,Inversion,exp,The uncle sold the truck the father.,Did the uncle sell the truck to the father?,N,4,3_Inversion_exp_4.gif,3840
+507,B2,4,Inversion,ctrl,The contractor lent the homeowner the saw.,Did the homeowner receive the saw?,Y,4,4_Inversion_ctrl_4.gif,3900
+508,B2,5,Inversion,exp,The sailing club leased the boat the man.,Did the club lease the boat to the man?,N,4,5_Inversion_exp_4.gif,4300
+509,B2,6,Inversion,ctrl,The girl tossed the boy the apple.,Was the boy tossed by a fruit? ,Y,4,6_Inversion_ctrl_4.gif,3820
+510,B2,7,Inversion,exp,The daughter passed the mother to the bowl.,Did the mother receive the bowl?,N,4,7_Inversion_exp_4.gif,4320
+511,B2,8,Inversion,ctrl,The scuba instructor rented the equipment to the tourist.,Did the tourist get the equipment?,Y,4,8_Inversion_ctrl_4.gif,4870
+512,B2,9,Inversion,exp,The boy handed the girl to the pencil.,Did the boy give the pencil to the girl?,N,4,9_Inversion_exp_4.gif,4270
+513,B2,10,Inversion,ctrl,The nanny threw the toy to the child.,Did the nanny throw a toy?,Y,4,10_Inversion_ctrl_4.gif,4260
+514,B2,11,Inversion,exp,The nephew mailed the aunt to the postcard.,Did the nephew mail the postcard?,N,4,11_Inversion_exp_4.gif,4320
+515,B2,12,Inversion,ctrl,The father gave the car to the son.,Did the son get a car?,Y,4,12_Inversion_ctrl_4.gif,4240
+516,B2,1,levy,exp,The coach smiled at the player tossed a frisbee by the opposing team.,Was the coach tossed a frisbee?,Y,4,1_levy_exp_4.gif,6630
+517,B2,2,levy,ctrl,The student sighed at the professor given a dancing lesson by the exeprienced instructors.,Did the professor teach a dance lesson?,N,4,2_levy_ctrl_4.gif,7250
+518,B2,3,levy,exp,The kindergardener grinned at the little girl brought a boy by her parents on the first day of Chanukah.,Was the kindergardener bought a boy?,N,4,3_levy_exp_4.gif,9440
+519,B2,4,levy,ctrl,The manager cursed at the waiter given pea soup by a trainee.,Was the waiter given pea soup?,Y,4,4_levy_ctrl_4.gif,6140
+520,B2,5,levy,exp,The priest frowned at the woman offered a beer by the hostess.,Was the woman given a beer?,Y,4,5_levy_exp_4.gif,6150
+521,B2,6,levy,ctrl,The hotel owner scowled at the guest taken a drink by the bellboy.,Did the guest take a drink?,N,4,6_levy_ctrl_4.gif,6600
+522,B2,7,levy,exp,James stared at the children dyed Easter eggs by their teachers?,Did the children dye Easter eggs?,N,4,7_levy_exp_4.gif,5760
+523,B2,8,levy,ctrl,The foreman cried out at a carpenter sawn a board by his buddy.,Was the carpenter sawn a board?,Y,4,8_levy_ctrl_4.gif,6570
+524,B2,9,levy,exp,The nurse grimaced at a student grabbed a muffin by her friends from the dining hall.,Was the student grabbed a muffin?,Y,4,9_levy_exp_4.gif,8020
+525,B2,10,levy,ctrl,The anthropologist looked on at the woman woven a shawl by her mother.,Did the woman weave a shawl?,N,4,10_levy_ctrl_4.gif,6640
+526,B2,11,levy,exp,The town dunk snorted at the innkeeper recited a verse by a traveling monk.,Was the innkeeper recited a verse?,Y,4,11_levy_exp_4.gif,7100
+527,B2,12,levy,ctrl,The trader sneered at the banker given a coupon by her boss.,Did the trader give a coupon?,N,4,12_levy_ctrl_4.gif,6130
+528,B2,1,mvrr,exp,A yellow frisbee dangled from the roof landed in the ditch.,Was the frisbee dangled from the roof?,Y,4,1_mvrr_exp_4.gif,5710
+529,B2,2,mvrr,ctrl,An impatient shopper who was shoved through the doors complained to the manager.,Was the shopper shoved?,Y,4,2_mvrr_ctrl_4.gif,6740
+530,B2,3,mvrr,exp,The drunk tourists heard on their balcony were asked to leave.,Did the drunk tourists hear something?,N,4,3_mvrr_exp_4.gif,5740
+531,B2,4,mvrr,ctrl,Several angry workers who were warned about low wages decided to file complaints.,Did the angry worked warn about the low wages?,N,4,4_mvrr_ctrl_4.gif,6750
+532,B2,5,mvrr,exp,Some rescue workers advised about the avalanche decided to stand by.,Did the rescue workers advise about the avalanche?,N,4,5_mvrr_exp_4.gif,5800
+533,B2,6,mvrr,ctrl,The aging professors who were phoned about the midterm were caught off guard.,Were the professors phoned about the midterm?,Y,4,6_mvrr_ctrl_4.gif,6710
+534,B2,7,mvrr,exp,The alert soldiers unloaded from the helicopter found their target quickly.,Were the soldiers unloaded?,Y,4,7_mvrr_exp_4.gif,5870
+535,B2,8,mvrr,ctrl,The brown sparrow who was signalled on a branch pecked at an insect.,Was the sparrow signalled?,Y,4,8_mvrr_ctrl_4.gif,6620
+536,B2,9,mvrr,exp,The calico cat licked in the alley ran into the street.,Was the calico cat licked?,Y,4,9_mvrr_exp_4.gif,5670
+537,B2,10,mvrr,ctrl,The computer programmers who were guaranteed the hard problem knew what to do.,Were the computer programmers guaranteed?,Y,4,10_mvrr_ctrl_4.gif,6720
+538,B2,11,mvrr,exp,The experienced chef assured about the stove burnt his hand anyway.,Was the chef assured about the stove?,Y,4,11_mvrr_exp_4.gif,5790
+539,B2,12,mvrr,ctrl,The cotton farmers who were told about bad floods had no other crops.,Were the cotton farmers told about bad floods?,Y,4,12_mvrr_ctrl_4.gif,6630
+540,B2,1,NPS,exp,The apprentice forgot the bicycle was standing in the garage next to the car.,Did the apprentice forget the bicycle?,N,4,1_NPS_exp_4.gif,7120
+541,B2,2,NPS,ctrl,The army found that the supplies saved many lives during the long conflict.,Did the army find some suppies?,N,4,2_NPS_ctrl_4.gif,6690
+542,B2,3,NPS,exp,The coach discovered the player tried to show off all the time.,Did the coach discover a player?,N,4,3_NPS_exp_4.gif,6160
+543,B2,4,NPS,ctrl,The scientist proved that the theory could help build cars with better mileage.,Did the scientist prove a theory?,N,4,4_NPS_ctrl_4.gif,6730
+544,B2,5,NPS,exp,The employees understood the contract would be changed very soon to accommodate all parties.,Did the employee understand the change of the contract?,Y,4,5_NPS_exp_4.gif,7270
+545,B2,6,NPS,ctrl,The journalist confirmed that the story would be published on the front page the next day.,Did the journalist confirm the publication date?,Y,4,6_NPS_ctrl_4.gif,8070
+546,B2,7,NPS,exp,The lawyer established the alibi was not sufficient to free the defendant from blame.,Did the lawyer established the alibi?,N,4,7_NPS_exp_4.gif,7200
+547,B2,8,NPS,ctrl,The mechanic accepted that the car looked in worse shape than before he worked on it.,Did the mechanic accept the car?,N,4,8_NPS_ctrl_4.gif,8020
+548,B2,9,NPS,exp,The traveler heard the clock had woken everybody up in the youth hostel.,Did the traveler hear the clock?,N,4,9_NPS_exp_4.gif,6660
+549,B2,10,NPS,ctrl,The owners insured that the house would never get flooded again when it rained.,Did the owner insure the house?,N,4,10_NPS_ctrl_4.gif,7140
+550,B2,11,NPS,exp,The priest recognized two guests were necessary for the marriage to be legal.,Did the priest recognize the condition for legal marriage?,Y,4,11_NPS_exp_4.gif,6710
+551,B2,12,NPS,ctrl,The reporter revealed that the politician received some payments from the unscrupulous millionaire.,Did the reporter reveal the bribery? ,Y,4,12_NPS_ctrl_4.gif,6930
+552,B2,1,NPZ,exp,After the librarian called the intern began returning books to the shelves.,Did the librarian call the intern?,N,4,1_NPZ_exp_4.gif,6280
+553,B2,2,NPZ,ctrl,"After the mugger attacked, the jogger was rubbing his sore leg, but it didn't help.",Did the mugger attach the jogger?,Y,4,2_NPZ_ctrl_4.gif,7590
+554,B2,3,NPZ,exp,Although the candidates debated the issues were overlooked by most of the media who covered the campaign.,Did the candidates debate the issues?,N,4,3_NPZ_exp_4.gif,8630
+555,B2,4,NPZ,ctrl,"Although the maid cleaned, the house was still in a state of total chaos.",Did the maid clean the house?,Y,4,4_NPZ_ctrl_4.gif,7080
+556,B2,5,NPZ,exp,As the couple danced the tango began to be played by a live orchestra.,Did the couple dance the tango?,N,4,5_NPZ_exp_4.gif,7050
+557,B2,6,NPZ,ctrl,"As the customer paid, the waitress could see how large the tip was.",Did the customer pay the waitress?,Y,4,6_NPZ_ctrl_4.gif,6610
+558,B2,7,NPZ,exp,Because the class failed the exam was rewritten by the teacher so it was much easier.,Did the class fail the exam rewriteen by the teacher?,N,4,7_NPZ_exp_4.gif,8020
+559,B2,8,NPZ,ctrl,"Because the train stopped, the traffic was rerouted through side streets for several hours.",Did the train stop the traffic?,Y,4,8_NPZ_ctrl_4.gif,7260
+560,B2,9,NPZ,exp,Before the tribe worshipped the idol was placed on a large platform.,Did the tribe worship the idol?,N,4,9_NPZ_exp_4.gif,6210
+561,B2,10,NPZ,ctrl,"Even though the army surrendered, the territory was filled with land mines that still had to be cleared.",Did the army surrender the territory?,Y,4,10_NPZ_ctrl_4.gif,9030
+562,B2,11,NPZ,exp,Even though the band left the party went on for at least another two hours.,Did the band leave the party?,N,4,11_NPZ_exp_4.gif,7510
+563,B2,12,NPZ,ctrl,"Even though the girl phoned, the instructor was very upset with her for missing a lesson.",Did the girl phone the instructor?,Y,4,12_NPZ_ctrl_4.gif,8060
+564,B2,1,reversal,exp,The librarian documented which journalist the celebrities had interviewed for the magazine.,Was the journalist interviewed?,Y,4,1_reversal_exp_4.gif,6440
+565,B2,2,reversal,ctrl,The old widower remembered which villager the ghost had haunted for many years.,Did the ghost hunt the villager?,Y,4,2_reversal_ctrl_4.gif,6730
+566,B2,3,reversal,exp,The firefighter reported which paramedic the victim had saved after the fire.,Was the paramedic saved?,Y,4,3_reversal_exp_4.gif,6300
+567,B2,4,reversal,ctrl,The historian documented which prince the assassin had killed in the 10th century.,Did the assassin kill the prince?,Y,4,4_reversal_ctrl_4.gif,6760
+568,B2,5,reversal,exp,The park ranger documented which hunter the eagle had shot with a rifle.,Was the hunter shot?,Y,4,5_reversal_exp_4.gif,6660
+569,B2,6,reversal,ctrl,The judo master recognized which defender the assailant had attacked late last night.,Was the defender attacked?,Y,4,6_reversal_ctrl_4.gif,6790
+570,B2,7,reversal,exp,The naturalist observed which deer the predators had avoided by sleeping in the daytime.,Did the predator avoid the deer?,Y,4,7_reversal_exp_4.gif,7230
+571,B2,8,reversal,ctrl,The restaurant owner forgot which customer the waitress had served during dinner yesterday.,Did the waitress serve the customer?,Y,4,8_reversal_ctrl_4.gif,6850
+572,B2,9,reversal,exp,The head nun explained which temptress the friar had seduced after Sunday mass.,Was the temptress seduced?,Y,4,9_reversal_exp_4.gif,6730
+573,B2,10,reversal,ctrl,The housekeeper showed which mouse the cat had killed under the table.,Was the mouse killed?,Y,4,10_reversal_ctrl_4.gif,6230
+574,B2,11,reversal,exp,The nanny knew which billionaire the housekeeper had hired from their conversation.,Did the housekeeper hire the billionaire?,Y,4,11_reversal_exp_4.gif,6360
+575,B2,12,reversal,ctrl,The researcher learned which whale the biologist had studied in the lab.,Did the biologist study the whale?,Y,4,12_reversal_ctrl_4.gif,6250
+576,B3,1,depth_charge,exp,"In Maria's class, no test is too difficult to fail.",Are all tests easy in Maria's class?,N,8,1_depth_charge_exp_8.gif,8420
+577,B3,2,depth_charge,ctrl,"In Laura's opinion, no relationship is so volatile that she would fail it.",Are all relationships stable in Laura's opinion?,Y,8,2_depth_charge_ctrl_8.gif,10840
+578,B3,3,depth_charge,exp,"According to Mark, no drug is too dangerous to ban.",Are all drugs safe in Mark's opinion?,N,8,3_depth_charge_exp_8.gif,8420
+579,B3,4,depth_charge,ctrl,"Considering John's finances, no offer is so low that he would reject it.",Are all offers acceptable to John?,Y,8,4_depth_charge_ctrl_8.gif,10820
+580,B3,5,depth_charge,exp,"In Gideon's opinion, no habit is too annoying to discourage.",Are all habits good in Gideon's opinion?,N,8,5_depth_charge_exp_8.gif,8510
+581,B3,6,depth_charge,ctrl,"According to the geologist, no data is so complicated that she would misinterpret it.",Are data easy to interpret according to the geologist? ,Y,8,6_depth_charge_ctrl_8.gif,11680
+582,B3,7,depth_charge,exp,"According to the politician, no social program is too wasteful to oppose.",Are all social programs useful?,N,8,7_depth_charge_exp_8.gif,10100
+583,B3,8,depth_charge,ctrl,"For someone like Alex, no memory is so distant that he would forget it.",Are all memories close for Alex?,Y,8,8_depth_charge_ctrl_8.gif,11540
+584,B3,9,depth_charge,exp,"When it comes to Sharon's friends, no event is too inconvenient to skip.",Are all friends' events convenient for Sharon?,N,8,9_depth_charge_exp_8.gif,10820
+585,B3,10,depth_charge,ctrl,"During Kipp's presidential campaign, no rumor was so outlandish that he would deny it.",Are all rumors usual during Kipps' campaign?,Y,8,10_depth_charge_ctrl_8.gif,11690
+586,B3,11,depth_charge,exp,"According to the movie producer, no criticism is too trivial to ignore.",Are all criticisms important to the movie producer?,N,8,11_depth_charge_exp_8.gif,10080
+587,B3,12,depth_charge,ctrl,"Judging by Tom's work, no error is so small that he would overlook it.",Are all errors important to Tom?,Y,8,12_depth_charge_ctrl_8.gif,11530
+588,B3,1,filler,filler,Someone who has fought in a war is a veteran.,Does the sentence mention a war? ,Y,8,1_filler_filler_8.gif,8360
+589,B3,2,filler,filler,The woman brought her sick pet dog to a veterinarian.,Was the animal a canine? ,Y,8,2_filler_filler_8.gif,8440
+590,B3,3,filler,filler,The vintage wedding dress was big and required an alteration.,Was the gown too small? ,N,8,3_filler_filler_8.gif,8520
+591,B3,4,filler,filler,Mediators prevented the dispute from escalating into a violent altercation.,Was there a disagreement? ,Y,8,4_filler_filler_8.gif,8660
+592,B3,5,filler,filler,The storyteller could turn any incident into an amusing anecdote.,Does the sentence mention a storyteller? ,Y,8,5_filler_filler_8.gif,8560
+593,B3,6,filler,filler,She saved him from the poison by administering an antidote.,Did she save him by amputating? ,N,8,6_filler_filler_8.gif,8500
+594,B3,7,filler,filler,Clownfish have evolved invulnerability to the poison tentacles of anemones.,Are the fish specially adapted? ,Y,8,7_filler_filler_8.gif,8660
+595,B3,8,filler,filler,The upscale apartment was complete with all these modern amenities.,Did the residence need an upgrade? ,N,8,8_filler_filler_8.gif,8580
+596,B3,9,filler,filler,The flooded river fertilized the fields with a rich sediment.,Did the river overflow its banks? ,Y,8,9_filler_filler_8.gif,8520
+597,B3,10,filler,filler,Political corruption and economic hardship fueled a growing anti-government sentiment.,Were people increasingly pro-government? ,N,8,10_filler_filler_8.gif,8770
+598,B3,11,filler,filler,Up on the tree branch perched a bright red cardinal.,Does the sentence mention a tree? ,Y,8,11_filler_filler_8.gif,8430
+599,B3,12,filler,filler,There is a beanbag toss game booth at this carnival.,Were the beanbags for a game? ,Y,8,12_filler_filler_8.gif,8430
+600,B3,1,Inversion,exp,The sister mailed the letter the niece.,Did the sister mailed her niece the letter?,N,8,1_Inversion_exp_8.gif,6110
+601,B3,2,Inversion,ctrl,The mother gave the daughter the candle.,Did the mother give the candle to the daughter?,Y,8,2_Inversion_ctrl_8.gif,6120
+602,B3,3,Inversion,exp,The uncle sold the truck the father.,Did the uncle sell the truck to the father?,N,8,3_Inversion_exp_8.gif,6080
+603,B3,4,Inversion,ctrl,The contractor lent the homeowner the saw.,Did the homeowner receive the saw?,Y,8,4_Inversion_ctrl_8.gif,6140
+604,B3,5,Inversion,exp,The sailing club leased the boat the man.,Did the club lease the boat to the man?,N,8,5_Inversion_exp_8.gif,6860
+605,B3,6,Inversion,ctrl,The girl tossed the boy the apple.,Was the boy tossed by a fruit? ,Y,8,6_Inversion_ctrl_8.gif,6060
+606,B3,7,Inversion,exp,The daughter passed the mother to the bowl.,Did the mother receive the bowl?,N,8,7_Inversion_exp_8.gif,6880
+607,B3,8,Inversion,ctrl,The scuba instructor rented the equipment to the tourist.,Did the tourist get the equipment?,Y,8,8_Inversion_ctrl_8.gif,7750
+608,B3,9,Inversion,exp,The boy handed the girl to the pencil.,Did the boy give the pencil to the girl?,N,8,9_Inversion_exp_8.gif,6830
+609,B3,10,Inversion,ctrl,The nanny threw the toy to the child.,Did the nanny throw a toy?,Y,8,10_Inversion_ctrl_8.gif,6820
+610,B3,11,Inversion,exp,The nephew mailed the aunt to the postcard.,Did the nephew mail the postcard?,N,8,11_Inversion_exp_8.gif,6880
+611,B3,12,Inversion,ctrl,The father gave the car to the son.,Did the son get a car?,Y,8,12_Inversion_ctrl_8.gif,6800
+612,B3,1,levy,exp,The coach smiled at the player tossed a frisbee by the opposing team.,Was the coach tossed a frisbee?,Y,8,1_levy_exp_8.gif,10790
+613,B3,2,levy,ctrl,The student sighed at the professor given a dancing lesson by the exeprienced instructors.,Did the professor teach a dance lesson?,N,8,2_levy_ctrl_8.gif,11730
+614,B3,3,levy,exp,The kindergardener grinned at the little girl brought a boy by her parents on the first day of Chanukah.,Was the kindergardener bought a boy?,N,8,3_levy_exp_8.gif,15520
+615,B3,4,levy,ctrl,The manager cursed at the waiter given pea soup by a trainee.,Was the waiter given pea soup?,Y,8,4_levy_ctrl_8.gif,9980
+616,B3,5,levy,exp,The priest frowned at the woman offered a beer by the hostess.,Was the woman given a beer?,Y,8,5_levy_exp_8.gif,9990
+617,B3,6,levy,ctrl,The hotel owner scowled at the guest taken a drink by the bellboy.,Did the guest take a drink?,N,8,6_levy_ctrl_8.gif,10760
+618,B3,7,levy,exp,James stared at the children dyed Easter eggs by their teachers?,Did the children dye Easter eggs?,N,8,7_levy_exp_8.gif,9280
+619,B3,8,levy,ctrl,The foreman cried out at a carpenter sawn a board by his buddy.,Was the carpenter sawn a board?,Y,8,8_levy_ctrl_8.gif,10730
+620,B3,9,levy,exp,The nurse grimaced at a student grabbed a muffin by her friends from the dining hall.,Was the student grabbed a muffin?,Y,8,9_levy_exp_8.gif,13140
+621,B3,10,levy,ctrl,The anthropologist looked on at the woman woven a shawl by her mother.,Did the woman weave a shawl?,N,8,10_levy_ctrl_8.gif,10800
+622,B3,11,levy,exp,The town dunk snorted at the innkeeper recited a verse by a traveling monk.,Was the innkeeper recited a verse?,Y,8,11_levy_exp_8.gif,11580
+623,B3,12,levy,ctrl,The trader sneered at the banker given a coupon by her boss.,Did the trader give a coupon?,N,8,12_levy_ctrl_8.gif,9970
+624,B3,1,mvrr,exp,A yellow frisbee dangled from the roof landed in the ditch.,Was the frisbee dangled from the roof?,Y,8,1_mvrr_exp_8.gif,9230
+625,B3,2,mvrr,ctrl,An impatient shopper who was shoved through the doors complained to the manager.,Was the shopper shoved?,Y,8,2_mvrr_ctrl_8.gif,10900
+626,B3,3,mvrr,exp,The drunk tourists heard on their balcony were asked to leave.,Did the drunk tourists hear something?,N,8,3_mvrr_exp_8.gif,9260
+627,B3,4,mvrr,ctrl,Several angry workers who were warned about low wages decided to file complaints.,Did the angry worked warn about the low wages?,N,8,4_mvrr_ctrl_8.gif,10910
+628,B3,5,mvrr,exp,Some rescue workers advised about the avalanche decided to stand by.,Did the rescue workers advise about the avalanche?,N,8,5_mvrr_exp_8.gif,9320
+629,B3,6,mvrr,ctrl,The aging professors who were phoned about the midterm were caught off guard.,Were the professors phoned about the midterm?,Y,8,6_mvrr_ctrl_8.gif,10870
+630,B3,7,mvrr,exp,The alert soldiers unloaded from the helicopter found their target quickly.,Were the soldiers unloaded?,Y,8,7_mvrr_exp_8.gif,9390
+631,B3,8,mvrr,ctrl,The brown sparrow who was signalled on a branch pecked at an insect.,Was the sparrow signalled?,Y,8,8_mvrr_ctrl_8.gif,10780
+632,B3,9,mvrr,exp,The calico cat licked in the alley ran into the street.,Was the calico cat licked?,Y,8,9_mvrr_exp_8.gif,9190
+633,B3,10,mvrr,ctrl,The computer programmers who were guaranteed the hard problem knew what to do.,Were the computer programmers guaranteed?,Y,8,10_mvrr_ctrl_8.gif,10880
+634,B3,11,mvrr,exp,The experienced chef assured about the stove burnt his hand anyway.,Was the chef assured about the stove?,Y,8,11_mvrr_exp_8.gif,9310
+635,B3,12,mvrr,ctrl,The cotton farmers who were told about bad floods had no other crops.,Were the cotton farmers told about bad floods?,Y,8,12_mvrr_ctrl_8.gif,10790
+636,B3,1,NPS,exp,The apprentice forgot the bicycle was standing in the garage next to the car.,Did the apprentice forget the bicycle?,N,8,1_NPS_exp_8.gif,11600
+637,B3,2,NPS,ctrl,The army found that the supplies saved many lives during the long conflict.,Did the army find some suppies?,N,8,2_NPS_ctrl_8.gif,10850
+638,B3,3,NPS,exp,The coach discovered the player tried to show off all the time.,Did the coach discover a player?,N,8,3_NPS_exp_8.gif,10000
+639,B3,4,NPS,ctrl,The scientist proved that the theory could help build cars with better mileage.,Did the scientist prove a theory?,N,8,4_NPS_ctrl_8.gif,10890
+640,B3,5,NPS,exp,The employees understood the contract would be changed very soon to accommodate all parties.,Did the employee understand the change of the contract?,Y,8,5_NPS_exp_8.gif,11750
+641,B3,6,NPS,ctrl,The journalist confirmed that the story would be published on the front page the next day.,Did the journalist confirm the publication date?,Y,8,6_NPS_ctrl_8.gif,13190
+642,B3,7,NPS,exp,The lawyer established the alibi was not sufficient to free the defendant from blame.,Did the lawyer established the alibi?,N,8,7_NPS_exp_8.gif,11680
+643,B3,8,NPS,ctrl,The mechanic accepted that the car looked in worse shape than before he worked on it.,Did the mechanic accept the car?,N,8,8_NPS_ctrl_8.gif,13140
+644,B3,9,NPS,exp,The traveler heard the clock had woken everybody up in the youth hostel.,Did the traveler hear the clock?,N,8,9_NPS_exp_8.gif,10820
+645,B3,10,NPS,ctrl,The owners insured that the house would never get flooded again when it rained.,Did the owner insure the house?,N,8,10_NPS_ctrl_8.gif,11620
+646,B3,11,NPS,exp,The priest recognized two guests were necessary for the marriage to be legal.,Did the priest recognize the condition for legal marriage?,Y,8,11_NPS_exp_8.gif,10870
+647,B3,12,NPS,ctrl,The reporter revealed that the politician received some payments from the unscrupulous millionaire.,Did the reporter reveal the bribery? ,Y,8,12_NPS_ctrl_8.gif,11090
+648,B3,1,NPZ,exp,After the librarian called the intern began returning books to the shelves.,Did the librarian call the intern?,N,8,1_NPZ_exp_8.gif,10120
+649,B3,2,NPZ,ctrl,"After the mugger attacked, the jogger was rubbing his sore leg, but it didn't help.",Did the mugger attach the jogger?,Y,8,2_NPZ_ctrl_8.gif,12390
+650,B3,3,NPZ,exp,Although the candidates debated the issues were overlooked by most of the media who covered the campaign.,Did the candidates debate the issues?,N,8,3_NPZ_exp_8.gif,14070
+651,B3,4,NPZ,ctrl,"Although the maid cleaned, the house was still in a state of total chaos.",Did the maid clean the house?,Y,8,4_NPZ_ctrl_8.gif,11560
+652,B3,5,NPZ,exp,As the couple danced the tango began to be played by a live orchestra.,Did the couple dance the tango?,N,8,5_NPZ_exp_8.gif,11530
+653,B3,6,NPZ,ctrl,"As the customer paid, the waitress could see how large the tip was.",Did the customer pay the waitress?,Y,8,6_NPZ_ctrl_8.gif,10770
+654,B3,7,NPZ,exp,Because the class failed the exam was rewritten by the teacher so it was much easier.,Did the class fail the exam rewriteen by the teacher?,N,8,7_NPZ_exp_8.gif,13140
+655,B3,8,NPZ,ctrl,"Because the train stopped, the traffic was rerouted through side streets for several hours.",Did the train stop the traffic?,Y,8,8_NPZ_ctrl_8.gif,11740
+656,B3,9,NPZ,exp,Before the tribe worshipped the idol was placed on a large platform.,Did the tribe worship the idol?,N,8,9_NPZ_exp_8.gif,10050
+657,B3,10,NPZ,ctrl,"Even though the army surrendered, the territory was filled with land mines that still had to be cleared.",Did the army surrender the territory?,Y,8,10_NPZ_ctrl_8.gif,14790
+658,B3,11,NPZ,exp,Even though the band left the party went on for at least another two hours.,Did the band leave the party?,N,8,11_NPZ_exp_8.gif,12310
+659,B3,12,NPZ,ctrl,"Even though the girl phoned, the instructor was very upset with her for missing a lesson.",Did the girl phone the instructor?,Y,8,12_NPZ_ctrl_8.gif,13180
+660,B3,1,reversal,exp,The librarian documented which journalist the celebrities had interviewed for the magazine.,Was the journalist interviewed?,Y,8,1_reversal_exp_8.gif,10280
+661,B3,2,reversal,ctrl,The old widower remembered which villager the ghost had haunted for many years.,Did the ghost hunt the villager?,Y,8,2_reversal_ctrl_8.gif,10890
+662,B3,3,reversal,exp,The firefighter reported which paramedic the victim had saved after the fire.,Was the paramedic saved?,Y,8,3_reversal_exp_8.gif,10140
+663,B3,4,reversal,ctrl,The historian documented which prince the assassin had killed in the 10th century.,Did the assassin kill the prince?,Y,8,4_reversal_ctrl_8.gif,10920
+664,B3,5,reversal,exp,The park ranger documented which hunter the eagle had shot with a rifle.,Was the hunter shot?,Y,8,5_reversal_exp_8.gif,10820
+665,B3,6,reversal,ctrl,The judo master recognized which defender the assailant had attacked late last night.,Was the defender attacked?,Y,8,6_reversal_ctrl_8.gif,10950
+666,B3,7,reversal,exp,The naturalist observed which deer the predators had avoided by sleeping in the daytime.,Did the predator avoid the deer?,Y,8,7_reversal_exp_8.gif,11710
+667,B3,8,reversal,ctrl,The restaurant owner forgot which customer the waitress had served during dinner yesterday.,Did the waitress serve the customer?,Y,8,8_reversal_ctrl_8.gif,11010
+668,B3,9,reversal,exp,The head nun explained which temptress the friar had seduced after Sunday mass.,Was the temptress seduced?,Y,8,9_reversal_exp_8.gif,10890
+669,B3,10,reversal,ctrl,The housekeeper showed which mouse the cat had killed under the table.,Was the mouse killed?,Y,8,10_reversal_ctrl_8.gif,10070
+670,B3,11,reversal,exp,The nanny knew which billionaire the housekeeper had hired from their conversation.,Did the housekeeper hire the billionaire?,Y,8,11_reversal_exp_8.gif,10200
+671,B3,12,reversal,ctrl,The researcher learned which whale the biologist had studied in the lab.,Did the biologist study the whale?,Y,8,12_reversal_ctrl_8.gif,10090
+672,B4,1,depth_charge,exp,"In Maria's class, no test is too difficult to fail.",Are all tests easy in Maria's class?,N,12,1_depth_charge_exp_12.gif,11620
+673,B4,2,depth_charge,ctrl,"In Laura's opinion, no relationship is so volatile that she would fail it.",Are all relationships stable in Laura's opinion?,Y,12,2_depth_charge_ctrl_12.gif,15000
+674,B4,3,depth_charge,exp,"According to Mark, no drug is too dangerous to ban.",Are all drugs safe in Mark's opinion?,N,12,3_depth_charge_exp_12.gif,11620
+675,B4,4,depth_charge,ctrl,"Considering John's finances, no offer is so low that he would reject it.",Are all offers acceptable to John?,Y,12,4_depth_charge_ctrl_12.gif,14980
+676,B4,5,depth_charge,exp,"In Gideon's opinion, no habit is too annoying to discourage.",Are all habits good in Gideon's opinion?,N,12,5_depth_charge_exp_12.gif,11710
+677,B4,6,depth_charge,ctrl,"According to the geologist, no data is so complicated that she would misinterpret it.",Are data easy to interpret according to the geologist? ,Y,12,6_depth_charge_ctrl_12.gif,16160
+678,B4,7,depth_charge,exp,"According to the politician, no social program is too wasteful to oppose.",Are all social programs useful?,N,12,7_depth_charge_exp_12.gif,13940
+679,B4,8,depth_charge,ctrl,"For someone like Alex, no memory is so distant that he would forget it.",Are all memories close for Alex?,Y,12,8_depth_charge_ctrl_12.gif,16020
+680,B4,9,depth_charge,exp,"When it comes to Sharon's friends, no event is too inconvenient to skip.",Are all friends' events convenient for Sharon?,N,12,9_depth_charge_exp_12.gif,14980
+681,B4,10,depth_charge,ctrl,"During Kipp's presidential campaign, no rumor was so outlandish that he would deny it.",Are all rumors usual during Kipps' campaign?,Y,12,10_depth_charge_ctrl_12.gif,16170
+682,B4,11,depth_charge,exp,"According to the movie producer, no criticism is too trivial to ignore.",Are all criticisms important to the movie producer?,N,12,11_depth_charge_exp_12.gif,13920
+683,B4,12,depth_charge,ctrl,"Judging by Tom's work, no error is so small that he would overlook it.",Are all errors important to Tom?,Y,12,12_depth_charge_ctrl_12.gif,16010
+684,B4,1,filler,filler,Someone who has fought in a war is a veteran.,Does the sentence mention a war? ,Y,12,1_filler_filler_12.gif,11560
+685,B4,2,filler,filler,The woman brought her sick pet dog to a veterinarian.,Was the animal a canine? ,Y,12,2_filler_filler_12.gif,11640
+686,B4,3,filler,filler,The vintage wedding dress was big and required an alteration.,Was the gown too small? ,N,12,3_filler_filler_12.gif,11720
+687,B4,4,filler,filler,Mediators prevented the dispute from escalating into a violent altercation.,Was there a disagreement? ,Y,12,4_filler_filler_12.gif,11860
+688,B4,5,filler,filler,The storyteller could turn any incident into an amusing anecdote.,Does the sentence mention a storyteller? ,Y,12,5_filler_filler_12.gif,11760
+689,B4,6,filler,filler,She saved him from the poison by administering an antidote.,Did she save him by amputating? ,N,12,6_filler_filler_12.gif,11700
+690,B4,7,filler,filler,Clownfish have evolved invulnerability to the poison tentacles of anemones.,Are the fish specially adapted? ,Y,12,7_filler_filler_12.gif,11860
+691,B4,8,filler,filler,The upscale apartment was complete with all these modern amenities.,Did the residence need an upgrade? ,N,12,8_filler_filler_12.gif,11780
+692,B4,9,filler,filler,The flooded river fertilized the fields with a rich sediment.,Did the river overflow its banks? ,Y,12,9_filler_filler_12.gif,11720
+693,B4,10,filler,filler,Political corruption and economic hardship fueled a growing anti-government sentiment.,Were people increasingly pro-government? ,N,12,10_filler_filler_12.gif,11970
+694,B4,11,filler,filler,Up on the tree branch perched a bright red cardinal.,Does the sentence mention a tree? ,Y,12,11_filler_filler_12.gif,11630
+695,B4,12,filler,filler,There is a beanbag toss game booth at this carnival.,Were the beanbags for a game? ,Y,12,12_filler_filler_12.gif,11630
+696,B4,1,Inversion,exp,The sister mailed the letter the niece.,Did the sister mailed her niece the letter?,N,12,1_Inversion_exp_12.gif,8350
+697,B4,2,Inversion,ctrl,The mother gave the daughter the candle.,Did the mother give the candle to the daughter?,Y,12,2_Inversion_ctrl_12.gif,8360
+698,B4,3,Inversion,exp,The uncle sold the truck the father.,Did the uncle sell the truck to the father?,N,12,3_Inversion_exp_12.gif,8320
+699,B4,4,Inversion,ctrl,The contractor lent the homeowner the saw.,Did the homeowner receive the saw?,Y,12,4_Inversion_ctrl_12.gif,8380
+700,B4,5,Inversion,exp,The sailing club leased the boat the man.,Did the club lease the boat to the man?,N,12,5_Inversion_exp_12.gif,9420
+701,B4,6,Inversion,ctrl,The girl tossed the boy the apple.,Was the boy tossed by a fruit? ,Y,12,6_Inversion_ctrl_12.gif,8300
+702,B4,7,Inversion,exp,The daughter passed the mother to the bowl.,Did the mother receive the bowl?,N,12,7_Inversion_exp_12.gif,9440
+703,B4,8,Inversion,ctrl,The scuba instructor rented the equipment to the tourist.,Did the tourist get the equipment?,Y,12,8_Inversion_ctrl_12.gif,10630
+704,B4,9,Inversion,exp,The boy handed the girl to the pencil.,Did the boy give the pencil to the girl?,N,12,9_Inversion_exp_12.gif,9390
+705,B4,10,Inversion,ctrl,The nanny threw the toy to the child.,Did the nanny throw a toy?,Y,12,10_Inversion_ctrl_12.gif,9380
+706,B4,11,Inversion,exp,The nephew mailed the aunt to the postcard.,Did the nephew mail the postcard?,N,12,11_Inversion_exp_12.gif,9440
+707,B4,12,Inversion,ctrl,The father gave the car to the son.,Did the son get a car?,Y,12,12_Inversion_ctrl_12.gif,9360
+708,B4,1,levy,exp,The coach smiled at the player tossed a frisbee by the opposing team.,Was the coach tossed a frisbee?,Y,12,1_levy_exp_12.gif,14950
+709,B4,2,levy,ctrl,The student sighed at the professor given a dancing lesson by the exeprienced instructors.,Did the professor teach a dance lesson?,N,12,2_levy_ctrl_12.gif,16210
+710,B4,3,levy,exp,The kindergardener grinned at the little girl brought a boy by her parents on the first day of Chanukah.,Was the kindergardener bought a boy?,N,12,3_levy_exp_12.gif,21600
+711,B4,4,levy,ctrl,The manager cursed at the waiter given pea soup by a trainee.,Was the waiter given pea soup?,Y,12,4_levy_ctrl_12.gif,13820
+712,B4,5,levy,exp,The priest frowned at the woman offered a beer by the hostess.,Was the woman given a beer?,Y,12,5_levy_exp_12.gif,13830
+713,B4,6,levy,ctrl,The hotel owner scowled at the guest taken a drink by the bellboy.,Did the guest take a drink?,N,12,6_levy_ctrl_12.gif,14920
+714,B4,7,levy,exp,James stared at the children dyed Easter eggs by their teachers?,Did the children dye Easter eggs?,N,12,7_levy_exp_12.gif,12800
+715,B4,8,levy,ctrl,The foreman cried out at a carpenter sawn a board by his buddy.,Was the carpenter sawn a board?,Y,12,8_levy_ctrl_12.gif,14890
+716,B4,9,levy,exp,The nurse grimaced at a student grabbed a muffin by her friends from the dining hall.,Was the student grabbed a muffin?,Y,12,9_levy_exp_12.gif,18260
+717,B4,10,levy,ctrl,The anthropologist looked on at the woman woven a shawl by her mother.,Did the woman weave a shawl?,N,12,10_levy_ctrl_12.gif,14960
+718,B4,11,levy,exp,The town dunk snorted at the innkeeper recited a verse by a traveling monk.,Was the innkeeper recited a verse?,Y,12,11_levy_exp_12.gif,16060
+719,B4,12,levy,ctrl,The trader sneered at the banker given a coupon by her boss.,Did the trader give a coupon?,N,12,12_levy_ctrl_12.gif,13810
+720,B4,1,mvrr,exp,A yellow frisbee dangled from the roof landed in the ditch.,Was the frisbee dangled from the roof?,Y,12,1_mvrr_exp_12.gif,12750
+721,B4,2,mvrr,ctrl,An impatient shopper who was shoved through the doors complained to the manager.,Was the shopper shoved?,Y,12,2_mvrr_ctrl_12.gif,15060
+722,B4,3,mvrr,exp,The drunk tourists heard on their balcony were asked to leave.,Did the drunk tourists hear something?,N,12,3_mvrr_exp_12.gif,12780
+723,B4,4,mvrr,ctrl,Several angry workers who were warned about low wages decided to file complaints.,Did the angry worked warn about the low wages?,N,12,4_mvrr_ctrl_12.gif,15070
+724,B4,5,mvrr,exp,Some rescue workers advised about the avalanche decided to stand by.,Did the rescue workers advise about the avalanche?,N,12,5_mvrr_exp_12.gif,12840
+725,B4,6,mvrr,ctrl,The aging professors who were phoned about the midterm were caught off guard.,Were the professors phoned about the midterm?,Y,12,6_mvrr_ctrl_12.gif,15030
+726,B4,7,mvrr,exp,The alert soldiers unloaded from the helicopter found their target quickly.,Were the soldiers unloaded?,Y,12,7_mvrr_exp_12.gif,12910
+727,B4,8,mvrr,ctrl,The brown sparrow who was signalled on a branch pecked at an insect.,Was the sparrow signalled?,Y,12,8_mvrr_ctrl_12.gif,14940
+728,B4,9,mvrr,exp,The calico cat licked in the alley ran into the street.,Was the calico cat licked?,Y,12,9_mvrr_exp_12.gif,12710
+729,B4,10,mvrr,ctrl,The computer programmers who were guaranteed the hard problem knew what to do.,Were the computer programmers guaranteed?,Y,12,10_mvrr_ctrl_12.gif,15040
+730,B4,11,mvrr,exp,The experienced chef assured about the stove burnt his hand anyway.,Was the chef assured about the stove?,Y,12,11_mvrr_exp_12.gif,12830
+731,B4,12,mvrr,ctrl,The cotton farmers who were told about bad floods had no other crops.,Were the cotton farmers told about bad floods?,Y,12,12_mvrr_ctrl_12.gif,14950
+732,B4,1,NPS,exp,The apprentice forgot the bicycle was standing in the garage next to the car.,Did the apprentice forget the bicycle?,N,12,1_NPS_exp_12.gif,16080
+733,B4,2,NPS,ctrl,The army found that the supplies saved many lives during the long conflict.,Did the army find some suppies?,N,12,2_NPS_ctrl_12.gif,15010
+734,B4,3,NPS,exp,The coach discovered the player tried to show off all the time.,Did the coach discover a player?,N,12,3_NPS_exp_12.gif,13840
+735,B4,4,NPS,ctrl,The scientist proved that the theory could help build cars with better mileage.,Did the scientist prove a theory?,N,12,4_NPS_ctrl_12.gif,15050
+736,B4,5,NPS,exp,The employees understood the contract would be changed very soon to accommodate all parties.,Did the employee understand the change of the contract?,Y,12,5_NPS_exp_12.gif,16230
+737,B4,6,NPS,ctrl,The journalist confirmed that the story would be published on the front page the next day.,Did the journalist confirm the publication date?,Y,12,6_NPS_ctrl_12.gif,18310
+738,B4,7,NPS,exp,The lawyer established the alibi was not sufficient to free the defendant from blame.,Did the lawyer established the alibi?,N,12,7_NPS_exp_12.gif,16160
+739,B4,8,NPS,ctrl,The mechanic accepted that the car looked in worse shape than before he worked on it.,Did the mechanic accept the car?,N,12,8_NPS_ctrl_12.gif,18260
+740,B4,9,NPS,exp,The traveler heard the clock had woken everybody up in the youth hostel.,Did the traveler hear the clock?,N,12,9_NPS_exp_12.gif,14980
+741,B4,10,NPS,ctrl,The owners insured that the house would never get flooded again when it rained.,Did the owner insure the house?,N,12,10_NPS_ctrl_12.gif,16100
+742,B4,11,NPS,exp,The priest recognized two guests were necessary for the marriage to be legal.,Did the priest recognize the condition for legal marriage?,Y,12,11_NPS_exp_12.gif,15030
+743,B4,12,NPS,ctrl,The reporter revealed that the politician received some payments from the unscrupulous millionaire.,Did the reporter reveal the bribery? ,Y,12,12_NPS_ctrl_12.gif,15250
+744,B4,1,NPZ,exp,After the librarian called the intern began returning books to the shelves.,Did the librarian call the intern?,N,12,1_NPZ_exp_12.gif,13960
+745,B4,2,NPZ,ctrl,"After the mugger attacked, the jogger was rubbing his sore leg, but it didn't help.",Did the mugger attach the jogger?,Y,12,2_NPZ_ctrl_12.gif,17190
+746,B4,3,NPZ,exp,Although the candidates debated the issues were overlooked by most of the media who covered the campaign.,Did the candidates debate the issues?,N,12,3_NPZ_exp_12.gif,19510
+747,B4,4,NPZ,ctrl,"Although the maid cleaned, the house was still in a state of total chaos.",Did the maid clean the house?,Y,12,4_NPZ_ctrl_12.gif,16040
+748,B4,5,NPZ,exp,As the couple danced the tango began to be played by a live orchestra.,Did the couple dance the tango?,N,12,5_NPZ_exp_12.gif,16010
+749,B4,6,NPZ,ctrl,"As the customer paid, the waitress could see how large the tip was.",Did the customer pay the waitress?,Y,12,6_NPZ_ctrl_12.gif,14930
+750,B4,7,NPZ,exp,Because the class failed the exam was rewritten by the teacher so it was much easier.,Did the class fail the exam rewriteen by the teacher?,N,12,7_NPZ_exp_12.gif,18260
+751,B4,8,NPZ,ctrl,"Because the train stopped, the traffic was rerouted through side streets for several hours.",Did the train stop the traffic?,Y,12,8_NPZ_ctrl_12.gif,16220
+752,B4,9,NPZ,exp,Before the tribe worshipped the idol was placed on a large platform.,Did the tribe worship the idol?,N,12,9_NPZ_exp_12.gif,13890
+753,B4,10,NPZ,ctrl,"Even though the army surrendered, the territory was filled with land mines that still had to be cleared.",Did the army surrender the territory?,Y,12,10_NPZ_ctrl_12.gif,20550
+754,B4,11,NPZ,exp,Even though the band left the party went on for at least another two hours.,Did the band leave the party?,N,12,11_NPZ_exp_12.gif,17110
+755,B4,12,NPZ,ctrl,"Even though the girl phoned, the instructor was very upset with her for missing a lesson.",Did the girl phone the instructor?,Y,12,12_NPZ_ctrl_12.gif,18300
+756,B4,1,reversal,exp,The librarian documented which journalist the celebrities had interviewed for the magazine.,Was the journalist interviewed?,Y,12,1_reversal_exp_12.gif,14120
+757,B4,2,reversal,ctrl,The old widower remembered which villager the ghost had haunted for many years.,Did the ghost hunt the villager?,Y,12,2_reversal_ctrl_12.gif,15050
+758,B4,3,reversal,exp,The firefighter reported which paramedic the victim had saved after the fire.,Was the paramedic saved?,Y,12,3_reversal_exp_12.gif,13980
+759,B4,4,reversal,ctrl,The historian documented which prince the assassin had killed in the 10th century.,Did the assassin kill the prince?,Y,12,4_reversal_ctrl_12.gif,15080
+760,B4,5,reversal,exp,The park ranger documented which hunter the eagle had shot with a rifle.,Was the hunter shot?,Y,12,5_reversal_exp_12.gif,14980
+761,B4,6,reversal,ctrl,The judo master recognized which defender the assailant had attacked late last night.,Was the defender attacked?,Y,12,6_reversal_ctrl_12.gif,15110
+762,B4,7,reversal,exp,The naturalist observed which deer the predators had avoided by sleeping in the daytime.,Did the predator avoid the deer?,Y,12,7_reversal_exp_12.gif,16190
+763,B4,8,reversal,ctrl,The restaurant owner forgot which customer the waitress had served during dinner yesterday.,Did the waitress serve the customer?,Y,12,8_reversal_ctrl_12.gif,15170
+764,B4,9,reversal,exp,The head nun explained which temptress the friar had seduced after Sunday mass.,Was the temptress seduced?,Y,12,9_reversal_exp_12.gif,15050
+765,B4,10,reversal,ctrl,The housekeeper showed which mouse the cat had killed under the table.,Was the mouse killed?,Y,12,10_reversal_ctrl_12.gif,13910
+766,B4,11,reversal,exp,The nanny knew which billionaire the housekeeper had hired from their conversation.,Did the housekeeper hire the billionaire?,Y,12,11_reversal_exp_12.gif,14040
+767,B4,12,reversal,ctrl,The researcher learned which whale the biologist had studied in the lab.,Did the biologist study the whale?,Y,12,12_reversal_ctrl_12.gif,13930
