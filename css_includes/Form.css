@@ -1,1 +1,4 @@
-
+.error-text {
+    color: red;
+    font-weight: bold;
+}
