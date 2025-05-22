@@ -1,5 +1,5 @@
-item,type,condition,sentence,question,answer,speed,key
-1,practice,ctrl,The hearty meal was devoured by a boy.,Was the hearty meal devoured?,Y,0,f
-2,practice,exp,The hearty meal was devouring by a boy.,Was the hearty meal devoured?,N,4,j
-3,practice,ctrl,Annie gave the apple to her mother.,Did Annie's mother receive an apple?,Y,1,f
-4,practice,exp,Annie gave the apple her mother.,Did Annie's mother receive an apple?,N,8,j
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,item,type,condition,sentence,question,answer,speed,key,file,duration
+0,0,0,0,1,practice,ctrl,The hearty meal was devoured by a boy.,Was the hearty meal devoured?,Y,1,f,1_practice_ctrl_4.gif,6155
+1,1,1,1,2,practice,exp,The hearty meal was devouring by a boy.,Was the hearty meal devoured?,N,2,j,2_practice_exp_4.gif,6160
+2,2,2,2,3,practice,ctrl,Annie gave the apple to her mother.,Did Annie's mother receive an apple?,Y,3,f,3_practice_ctrl_4.gif,5545
+3,3,3,3,4,practice,exp,Annie gave the apple her mother.,Did Annie's mother receive an apple?,N,1,j,4_practice_exp_4.gif,4935
