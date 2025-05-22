@@ -1,4 +1,8 @@
 PennController.ResetPrefix(null) // Shorten command names (keep this line here))
+DebugOff()
+//AddHost("https://github.com/goldengua/SpeededComprehensionRSVP/tree/main/chunk_includes/GIFs/");
+
+
 Header(
 // void
 )
@@ -52,29 +56,25 @@ newTrial("intro",
 Template( "practice.csv" , 
     row => newTrial( "practice" ,   
         // Display all Text elements centered on the page, and log their display time code
-        newText("practice").color("blue").print("center at 50vw","top at 1em")
+        // newText("practice").color("blue").print("center at 50vw","top at 1em")
+        // ,
+        defaultText.center().print("center at 50vw","middle at 25vh").log()
         ,
-        defaultText.center().print("center at 50vw","middle at 50vh").log()
+ 
+       newImage("gif", row.file)
+         .center()
+        //.settings.hidden()  // Initially hide the GIF
+        .print()
+        //.wait(1000)  // Display for 5000 ms (5 seconds)
+        //.settings.hidden(true)  // Hide the GIF after the specified duration
         ,
-        // Automatically start and wait for Timer elements when created, and log those events
-        defaultTimer.log().start().wait()
-        ,
-        // Mask, shown on screen for 500ms
-        newText("mask","######"),
-        newTimer("maskTimer", 500),                       
-        getText("mask").remove()
-        ,
-        // Prime, shown on screen for 42ms
-        newController("DashedSentence", {s: row.sentence, mode: "speeded acceptability","speed": row.speed,
-            display: "in place", wordTime: 190, wordPauseTime: 100})
-        .print("center at 50vw","middle at 50vh")
-        .cssContainer({"font-size": "300%",        })
-        .log()
-        .wait()
-        .remove()
-        ,
-        
       // Target, shown on screen until F or J is pressed
+       newTimer("gif presentation", row.duration)
+        .start()
+        .wait()
+        ,
+        getImage("gif").remove() // Hide the image after the timer ends
+        ,
         newText("question",row.question)
         ,
         // Use a tooltip to give instructions
@@ -123,27 +123,25 @@ newTrial( "experiment_intro" ,
 Template( "stimuli_latin.csv" , 
     row => newTrial( "experiment" ,   
         // Display all Text elements centered on the page, and log their display time code
-        defaultText.center().print("center at 50vw","middle at 50vh").log()
+         defaultText.center().print("center at 50vw","middle at 25vh").log()
         ,
-        // Automatically start and wait for Timer elements when created, and log those events
-        defaultTimer.log().start().wait()
+ 
+       newImage("gif", row.file)
+         .center()
+        //.settings.hidden()  // Initially hide the GIF
+        .print()
+        //.wait(1000)  // Display for 5000 ms (5 seconds)
+        //.settings.hidden(true)  // Hide the GIF after the specified duration
         ,
-        // Mask, shown on screen for 500ms
-        newText("mask","######"),
-        newTimer("maskTimer", 500),                       
-        getText("mask").remove()
-        ,
-        // Prime, shown on screen for 42ms
-        newController("DashedSentence", {s: row.sentence, mode: "speeded acceptability", speed: row.speed,
-            display: "in place", wordTime: 50, wordPauseTime: 100})
-        .print("center at 50vw","middle at 50vh")
-        .cssContainer({"font-size": "300%",        })
-        .log()
+      // Target, shown on screen until F or J is pressed
+       newTimer("gif presentation", row.duration)
+        .start()
         .wait()
-        .remove()
         ,
-        
+
         newVar("RT").global().set( v => Date.now() )
+        ,
+        getImage("gif").remove() // Hide the image after the timer ends
         ,
        // Target, shown on screen until F or J is pressed
         newText("question",row.question)
